@@ -35,7 +35,7 @@ colocado na raiz. Siga os caminhos do repositório que estiver editando.
 4. Abra um **Pull request** para apresentar sua alteração ao projeto.
 
 Quem possui acesso de escrita pode editar os arquivos pelo próprio GitHub.
-O pacote `codigo-aberto.zip` também permite baixar o projeto completo. A pasta
+O botão **Baixar o projeto completo** usa o [ZIP oficial da versão `main`](https://github.com/satoshisoybr/satoshisoybr.github.io/archive/refs/heads/main.zip), disponibilizado pelo GitHub. A pasta
 `.openai` é da hospedagem anterior e não integra esse pacote público.
 
 ## Publicação atual no GitHub Pages
