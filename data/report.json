@@ -1,72 +1,10 @@
 {
-  "edition": "2026-11-24",
-  "cutoff": "2026-11-24T15:24:25.782230-03:00",
-  "window_start": "2026-10-26",
-  "window_end": "2026-11-24",
+  "edition": "2026-11-25",
+  "cutoff": "2026-11-25T08:41:39.789110-03:00",
+  "window_start": "2026-10-27",
+  "window_end": "2026-11-25",
   "rows": {
     "Paranaguá": [
-      {
-        "date": "2026-10-26",
-        "port": "Paranaguá",
-        "sources": {
-          "fx": {
-            "date": "2026-10-26",
-            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
-            "published_at": null,
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
-          },
-          "cbot": {
-            "date": "2026-10-26",
-            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
-            "published_at": null,
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
-          },
-          "premium": {
-            "date": "2026-10-26",
-            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
-            "published_at": null,
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
-          },
-          "physical_brl_raw": {
-            "date": "2026-10-26",
-            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
-            "published_at": null,
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
-          }
-        },
-        "contract": "ZSX26",
-        "premium_condition": "embarque nov/26; base CBOT não confirmada",
-        "fx": "5.5007",
-        "cbot": "12.4125",
-        "premium": "1.55",
-        "physical_brl_raw": "155.55",
-        "chicago_brl": "150.53",
-        "premium_brl": "18.80",
-        "sum": "169.33",
-        "physical": "155.55",
-        "physical_usd": "12.82679969144177207602151457",
-        "residual": "-13.78",
-        "sum_status": "estimativa indicativa, base do prêmio não confirmada",
-        "bitcoin": {
-          "chicago_brl": "35033.13",
-          "premium_brl": "4375.36",
-          "physical": "36201.44",
-          "residual": "-3207.05",
-          "sum": "39408.49",
-          "usd": "1280.19",
-          "btc_brl": "429679.00000000",
-          "reference": {
-            "date": "2026-10-26",
-            "price_brl": "429679.00000000",
-            "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
-            "observed_at": "2026-10-26T23:59:59.999000-03:00",
-            "consulted_at": "2026-11-24T15:22:35.182791-03:00",
-            "nature": "daily_close",
-            "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
-            "source": "Binance"
-          }
-        }
-      },
       {
         "date": "2026-10-27",
         "port": "Paranaguá",
@@ -1117,10 +1055,10 @@
         "port": "Paranaguá",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-16",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-16-2026'&$format=json",
-            "published_at": "2026-11-16T13:06:32.509132-03:00",
-            "consulted_at": "2026-11-16T22:05:00.137032-03:00"
+            "published_at": "2026-11-16 13:06:32.509132 Brasília",
+            "consulted_at": "2026-11-25T08:41:20.812961-03:00"
           },
           "cbot": {
             "date": "2026-11-16",
@@ -1179,10 +1117,10 @@
         "port": "Paranaguá",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-17",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-17-2026'&$format=json",
             "published_at": "2026-11-17 13:07:26.01516 Brasília",
-            "consulted_at": "2026-11-18T13:30:38.557237-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813046-03:00"
           },
           "cbot": {
             "date": "2026-11-17",
@@ -1241,10 +1179,10 @@
         "port": "Paranaguá",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-18",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-18-2026'&$format=json",
             "published_at": "2026-11-18 13:08:44.271245 Brasília",
-            "consulted_at": "2026-11-18T13:31:38.075959-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813059-03:00"
           },
           "cbot": {
             "date": "2026-11-18",
@@ -1303,10 +1241,10 @@
         "port": "Paranaguá",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-19",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-19-2026'&$format=json",
             "published_at": "2026-11-19 13:04:18.325373 Brasília",
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813069-03:00"
           },
           "cbot": {
             "date": "2026-11-19",
@@ -1472,10 +1410,10 @@
         "port": "Paranaguá",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-23",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-23-2026'&$format=json",
             "published_at": "2026-11-23 13:06:23.798289 Brasília",
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813080-03:00"
           },
           "cbot": {
             "date": "2026-11-23",
@@ -1498,7 +1436,7 @@
         },
         "contract": "ZSF27",
         "premium_condition": "embarque novembro2026;baseCBOT não confirmada",
-        "fx": "5.9708",
+        "fx": "5.97080",
         "cbot": "12.2875",
         "premium": "1.60",
         "physical_brl_raw": "170.74",
@@ -1532,9 +1470,47 @@
       {
         "date": "2026-11-24",
         "port": "Paranaguá",
-        "sources": {},
+        "sources": {
+          "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
+            "date": "2026-11-24",
+            "published_at": "2026-11-24 13:07:40.485706 Brasília",
+            "consulted_at": "2026-11-25T08:41:20.813097-03:00"
+          }
+        },
         "contract": "ZSF27",
         "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.85730",
+        "chicago_brl": null,
+        "premium_brl": null,
+        "sum": null,
+        "physical": null,
+        "physical_usd": null,
+        "residual": null,
+        "sum_status": "não disponível",
+        "bitcoin": {
+          "chicago_brl": null,
+          "premium_brl": null,
+          "physical": null,
+          "residual": null,
+          "sum": null,
+          "usd": "1671.34",
+          "btc_brl": "350456.00000000",
+          "reference": {
+            "date": "2026-11-24",
+            "price_brl": "350456.00000000",
+            "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&startTime=1795489200000&endTime=1795575599999&limit=1000",
+            "observed_at": "2026-11-24T23:59:59.999000-03:00",
+            "consulted_at": "2026-11-25T08:41:39.196526-03:00",
+            "nature": "daily_close",
+            "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+            "source": "Binance"
+          }
+        }
+      },
+      {
+        "date": "2026-11-25",
+        "port": "Paranaguá",
         "chicago_brl": null,
         "premium_brl": null,
         "sum": null,
@@ -1555,54 +1531,6 @@
       }
     ],
     "Santos": [
-      {
-        "date": "2026-10-26",
-        "port": "Santos",
-        "sources": {
-          "fx": {
-            "date": "2026-10-26",
-            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
-            "published_at": null,
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
-          },
-          "cbot": {
-            "date": "2026-10-26",
-            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
-            "published_at": null,
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
-          }
-        },
-        "contract": "ZSX26",
-        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
-        "fx": "5.5007",
-        "cbot": "12.4125",
-        "chicago_brl": "150.53",
-        "premium_brl": null,
-        "sum": null,
-        "physical": null,
-        "physical_usd": null,
-        "residual": null,
-        "sum_status": "não disponível",
-        "bitcoin": {
-          "chicago_brl": "35033.13",
-          "premium_brl": null,
-          "physical": null,
-          "residual": null,
-          "sum": null,
-          "usd": "1280.19",
-          "btc_brl": "429679.00000000",
-          "reference": {
-            "date": "2026-10-26",
-            "price_brl": "429679.00000000",
-            "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
-            "observed_at": "2026-10-26T23:59:59.999000-03:00",
-            "consulted_at": "2026-11-24T15:22:35.182791-03:00",
-            "nature": "daily_close",
-            "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
-            "source": "Binance"
-          }
-        }
-      },
       {
         "date": "2026-10-27",
         "port": "Santos",
@@ -2555,10 +2483,10 @@
         "port": "Santos",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-16",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-16-2026'&$format=json",
-            "published_at": "2026-11-16T13:06:32.509132-03:00",
-            "consulted_at": "2026-11-16T22:05:00.137032-03:00"
+            "published_at": "2026-11-16 13:06:32.509132 Brasília",
+            "consulted_at": "2026-11-25T08:41:20.812961-03:00"
           },
           "cbot": {
             "date": "2026-11-16",
@@ -2603,10 +2531,10 @@
         "port": "Santos",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-17",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-17-2026'&$format=json",
             "published_at": "2026-11-17 13:07:26.01516 Brasília",
-            "consulted_at": "2026-11-18T13:30:38.557237-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813046-03:00"
           },
           "cbot": {
             "date": "2026-11-17",
@@ -2651,10 +2579,10 @@
         "port": "Santos",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-18",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-18-2026'&$format=json",
             "published_at": "2026-11-18 13:08:44.271245 Brasília",
-            "consulted_at": "2026-11-18T13:31:38.075959-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813059-03:00"
           },
           "cbot": {
             "date": "2026-11-18",
@@ -2699,10 +2627,10 @@
         "port": "Santos",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-19",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-19-2026'&$format=json",
             "published_at": "2026-11-19 13:04:18.325373 Brasília",
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813069-03:00"
           },
           "cbot": {
             "date": "2026-11-19",
@@ -2854,10 +2782,10 @@
         "port": "Santos",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-23",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-23-2026'&$format=json",
             "published_at": "2026-11-23 13:06:23.798289 Brasília",
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813080-03:00"
           },
           "cbot": {
             "date": "2026-11-23",
@@ -2868,7 +2796,7 @@
         },
         "contract": "ZSF27",
         "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
-        "fx": "5.9708",
+        "fx": "5.97080",
         "cbot": "12.2875",
         "chicago_brl": "161.74",
         "premium_brl": null,
@@ -2900,9 +2828,67 @@
       {
         "date": "2026-11-24",
         "port": "Santos",
-        "sources": {},
+        "sources": {
+          "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
+            "date": "2026-11-24",
+            "published_at": "2026-11-24 13:07:40.485706 Brasília",
+            "consulted_at": "2026-11-25T08:41:20.813097-03:00"
+          },
+          "physical_usd_raw": {
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "date": "2026-11-24",
+            "published_at": "2026-11-25T08:30:06-03:00",
+            "consulted_at": "2026-11-25T08:41:21.311537-03:00"
+          },
+          "premium_condition": {
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "date": "2026-11-24",
+            "published_at": "2026-11-25T08:30:06-03:00",
+            "consulted_at": "2026-11-25T08:41:21.311589-03:00"
+          },
+          "premium": {
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "date": "2026-11-24",
+            "published_at": "2026-11-25T08:30:06-03:00",
+            "consulted_at": "2026-11-25T08:41:21.311589-03:00"
+          }
+        },
         "contract": "ZSF27",
         "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.85730",
+        "physical_usd_raw": "13.577887459002734",
+        "premium": "1.2558874590027335",
+        "chicago_brl": null,
+        "premium_brl": "16.22",
+        "sum": null,
+        "physical": "175.33",
+        "physical_usd": "13.577887459002734",
+        "residual": null,
+        "sum_status": "não disponível",
+        "bitcoin": {
+          "chicago_brl": null,
+          "premium_brl": "4628.26",
+          "physical": "50029.10",
+          "residual": null,
+          "sum": null,
+          "usd": "1671.34",
+          "btc_brl": "350456.00000000",
+          "reference": {
+            "date": "2026-11-24",
+            "price_brl": "350456.00000000",
+            "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&startTime=1795489200000&endTime=1795575599999&limit=1000",
+            "observed_at": "2026-11-24T23:59:59.999000-03:00",
+            "consulted_at": "2026-11-25T08:41:39.196526-03:00",
+            "nature": "daily_close",
+            "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+            "source": "Binance"
+          }
+        }
+      },
+      {
+        "date": "2026-11-25",
+        "port": "Santos",
         "chicago_brl": null,
         "premium_brl": null,
         "sum": null,
@@ -2929,10 +2915,10 @@
       "port": "Paranaguá",
       "sources": {
         "fx": {
+          "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
           "date": "2026-11-23",
-          "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-23-2026'&$format=json",
           "published_at": "2026-11-23 13:06:23.798289 Brasília",
-          "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          "consulted_at": "2026-11-25T08:41:20.813080-03:00"
         },
         "cbot": {
           "date": "2026-11-23",
@@ -2955,7 +2941,7 @@
       },
       "contract": "ZSF27",
       "premium_condition": "embarque novembro2026;baseCBOT não confirmada",
-      "fx": "5.9708",
+      "fx": "5.97080",
       "cbot": "12.2875",
       "premium": "1.60",
       "physical_brl_raw": "170.74",
@@ -2987,61 +2973,60 @@
       }
     },
     "Santos": {
-      "date": "2026-11-13",
+      "date": "2026-11-24",
       "port": "Santos",
       "sources": {
         "fx": {
-          "date": "2026-11-13",
-          "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
-          "published_at": null,
-          "consulted_at": "2026-11-24T12:07:34.463560-03:00"
-        },
-        "cbot": {
-          "date": "2026-11-13",
-          "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
-          "published_at": null,
-          "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
+          "date": "2026-11-24",
+          "published_at": "2026-11-24 13:07:40.485706 Brasília",
+          "consulted_at": "2026-11-25T08:41:20.813097-03:00"
         },
         "physical_usd_raw": {
-          "date": "2026-11-13",
           "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
-          "published_at": null,
-          "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          "date": "2026-11-24",
+          "published_at": "2026-11-25T08:30:06-03:00",
+          "consulted_at": "2026-11-25T08:41:21.311537-03:00"
+        },
+        "premium_condition": {
+          "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+          "date": "2026-11-24",
+          "published_at": "2026-11-25T08:30:06-03:00",
+          "consulted_at": "2026-11-25T08:41:21.311589-03:00"
         },
         "premium": {
-          "date": "2026-11-13",
           "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
-          "published_at": null,
-          "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          "date": "2026-11-24",
+          "published_at": "2026-11-25T08:30:06-03:00",
+          "consulted_at": "2026-11-25T08:41:21.311589-03:00"
         }
       },
-      "contract": "ZSX26",
+      "contract": "ZSF27",
       "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
-      "fx": "5.6518",
-      "cbot": "12.4300",
-      "premium": "1.5622841245639643",
-      "physical_usd_raw": "13.884784124563964",
-      "chicago_brl": "154.88",
-      "premium_brl": "19.47",
-      "sum": "174.35",
-      "physical": "173.01",
-      "physical_usd": "13.884784124563964",
-      "residual": "-1.34",
-      "sum_status": "estimativa indicativa, base do prêmio não confirmada",
+      "fx": "5.85730",
+      "physical_usd_raw": "13.577887459002734",
+      "premium": "1.2558874590027335",
+      "chicago_brl": null,
+      "premium_brl": "16.22",
+      "sum": null,
+      "physical": "175.33",
+      "physical_usd": "13.577887459002734",
+      "residual": null,
+      "sum_status": "não disponível",
       "bitcoin": {
-        "chicago_brl": "40044.26",
-        "premium_brl": "5033.97",
-        "physical": "44731.78",
-        "residual": "-346.45",
-        "sum": "45078.23",
-        "usd": "1461.27",
-        "btc_brl": "386772.00000000",
+        "chicago_brl": null,
+        "premium_brl": "4628.26",
+        "physical": "50029.10",
+        "residual": null,
+        "sum": null,
+        "usd": "1671.34",
+        "btc_brl": "350456.00000000",
         "reference": {
-          "date": "2026-11-13",
-          "price_brl": "386772.00000000",
-          "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
-          "observed_at": "2026-11-13T23:59:59.999000-03:00",
-          "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+          "date": "2026-11-24",
+          "price_brl": "350456.00000000",
+          "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&startTime=1795489200000&endTime=1795575599999&limit=1000",
+          "observed_at": "2026-11-24T23:59:59.999000-03:00",
+          "consulted_at": "2026-11-25T08:41:39.196526-03:00",
           "nature": "daily_close",
           "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
           "source": "Binance"
@@ -3051,79 +3036,77 @@
   },
   "futures": [
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "ticker": "SJCH27",
       "family": "SJC",
-      "reference_month": "2027-03",
-      "settlement": "27.1715",
-      "previous_settlement": "26.7361",
-      "unit": "USD/sc60kg",
-      "volume": "426",
-      "number_of_trades": "38",
-      "bid": "27.12",
-      "ask": "27.18",
-      "last_trade": "27.12",
-      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261123.zip",
-      "publication_time": "2026-11-23T20:36:30-03:00",
-      "consultation_recorded_at": "2026-11-24T12:05:53.892020-03:00",
-      "brl_sc": "162.24",
-      "pct": "1.628509767692370989037294100",
-      "flow_usd": "-195.9300",
-      "flow_brl_estimate": "-1169.86",
-      "fx": "5.9708",
+      "settlement": "27.2762",
+      "previous_settlement": "27.1715",
+      "unit": "USD/sc 60kg",
+      "volume": "27",
+      "number_of_trades": "10",
+      "bid": "27.21",
+      "ask": "27.27",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.608474-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml",
+      "brl_sc": "159.76",
+      "pct": "0.385330217323298308889829400",
+      "flow_usd": "-47.1150",
+      "flow_brl_estimate": "-275.97",
+      "fx": "5.85730",
       "actual_brl": null,
       "bitcoin": {
         "reference": {
-          "date": "2026-11-23",
-          "price_brl": "357354.00000000",
-          "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
-          "observed_at": "2026-11-23T23:59:59.999000-03:00",
-          "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+          "date": "2026-11-24",
+          "price_brl": "350456.00000000",
+          "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&startTime=1795489200000&endTime=1795575599999&limit=1000",
+          "observed_at": "2026-11-24T23:59:59.999000-03:00",
+          "consulted_at": "2026-11-25T08:41:39.196526-03:00",
           "nature": "daily_close",
           "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
           "source": "Binance"
         },
-        "reference_sc": "45400.36",
-        "flow_estimate": "-327367.26",
-        "usd": "1670.84"
+        "reference_sc": "45586.32",
+        "flow_estimate": "-78745.98",
+        "usd": "1671.34"
       }
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "ticker": "SOYH27",
       "family": "SOY",
-      "reference_month": "2027-03",
-      "settlement": "441.2",
-      "previous_settlement": "434.6",
+      "settlement": "442",
+      "previous_settlement": "441.2",
       "unit": "USD/t",
       "volume": null,
       "number_of_trades": null,
       "bid": null,
       "ask": null,
-      "last_trade": null,
-      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261123.zip",
-      "publication_time": "2026-11-23T20:36:30-03:00",
-      "consultation_recorded_at": "2026-11-24T12:05:53.892020-03:00",
-      "brl_sc": "158.06",
-      "pct": "1.518637827887712839392544900",
-      "flow_usd": "-178.200",
-      "flow_brl_estimate": "-1064.00",
-      "fx": "5.9708",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.050117-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml",
+      "brl_sc": "155.34",
+      "pct": "0.181323662737987307343608300",
+      "flow_usd": "-21.600",
+      "flow_brl_estimate": "-126.52",
+      "fx": "5.85730",
       "actual_brl": null,
       "bitcoin": {
         "reference": {
-          "date": "2026-11-23",
-          "price_brl": "357354.00000000",
-          "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
-          "observed_at": "2026-11-23T23:59:59.999000-03:00",
-          "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+          "date": "2026-11-24",
+          "price_brl": "350456.00000000",
+          "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&startTime=1795489200000&endTime=1795575599999&limit=1000",
+          "observed_at": "2026-11-24T23:59:59.999000-03:00",
+          "consulted_at": "2026-11-25T08:41:39.196526-03:00",
           "nature": "daily_close",
           "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
           "source": "Binance"
         },
-        "reference_sc": "44230.65",
-        "flow_estimate": "-297743.97",
-        "usd": "1670.84"
+        "reference_sc": "44325.11",
+        "flow_estimate": "-36101.54",
+        "usd": "1671.34"
       }
     }
   ],
@@ -3138,7 +3121,7 @@
       "premium_brl": null,
       "cost450": null,
       "expired": false,
-      "days": 87,
+      "days": 86,
       "bitcoin": {
         "strike": "45530.29",
         "reference": {
@@ -3164,7 +3147,7 @@
       "premium_brl": null,
       "cost450": null,
       "expired": false,
-      "days": 87,
+      "days": 86,
       "bitcoin": {
         "strike": "43859.45",
         "reference": {
@@ -3184,28 +3167,28 @@
   "five": [
     {
       "label": "SJCH27",
-      "from": "2026-11-13",
-      "to": "2026-11-23",
-      "first_brl": "154.16",
-      "last_brl": "162.24",
-      "delta": "8.08",
-      "pct": "5.241307732226258432797093928",
+      "from": "2026-11-16",
+      "to": "2026-11-24",
+      "first_brl": "155.82",
+      "last_brl": "159.76",
+      "delta": "3.94",
+      "pct": "2.528558593248620202798100372",
       "bitcoin": {
-        "delta": "5542.25",
-        "pct": "13.90494933151622091463945480"
+        "delta": "3982.51",
+        "pct": "9.572464637253174649148719800"
       }
     },
     {
       "label": "SOYH27",
-      "from": "2026-11-13",
-      "to": "2026-11-23",
-      "first_brl": "151.72",
-      "last_brl": "158.06",
-      "delta": "6.34",
-      "pct": "4.178750329554442393883469549",
+      "from": "2026-11-16",
+      "to": "2026-11-24",
+      "first_brl": "152.92",
+      "last_brl": "155.34",
+      "delta": "2.42",
+      "pct": "1.582526811404656029296364112",
       "bitcoin": {
-        "delta": "5003.41",
-        "pct": "12.75493764027242293875378440"
+        "delta": "3495.60",
+        "pct": "8.561454692941453375267055600"
       }
     },
     {
@@ -3223,32 +3206,34 @@
     },
     {
       "label": "Santos · Físico",
-      "from": "2026-11-06",
-      "to": "2026-11-13",
-      "first_brl": "161.69",
-      "last_brl": "173.01",
-      "delta": "11.32",
-      "pct": "7.001051394644071989609747047",
+      "from": "2026-11-09",
+      "to": "2026-11-24",
+      "first_brl": "165.49",
+      "last_brl": "175.33",
+      "delta": "9.84",
+      "pct": "5.945978608979394525348963684",
       "bitcoin": {
-        "delta": "6380.90",
-        "pct": "16.63821012712094220523753300"
+        "delta": "10037.32",
+        "pct": "25.09845773306414468173209590"
       }
     },
     {
       "label": "Santos · Prêmio",
-      "from": "2026-11-06",
-      "to": "2026-11-13",
-      "first_brl": "16.83",
-      "last_brl": "19.47",
-      "delta": "2.64",
-      "pct": "15.68627450980392156862745098",
+      "from": "2026-11-09",
+      "to": "2026-11-24",
+      "first_brl": "19.90",
+      "last_brl": "16.22",
+      "delta": "-3.68",
+      "pct": "-18.49246231155778894472361809",
       "bitcoin": {
-        "delta": "1042.10",
-        "pct": "26.10555954978493788625381090"
+        "delta": "-180.71",
+        "pct": "-3.757769335221471541723071680"
       }
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fetch_agricultural: HTTPError; captura anterior preservada"
+  ],
   "news": [
     {
       "date": "2026-11-24",
@@ -3266,13 +3251,13 @@
     }
   ],
   "automation": {
-    "active": false,
+    "active": true,
     "schedule": "segunda a sexta,12h Brasília",
-    "status": "Workflow preparado; ativação no GitHub pendente"
+    "status": "Execução GitHub Actions"
   },
   "quality": {
-    "checks": 245,
-    "passed": 245,
+    "checks": 241,
+    "passed": 241,
     "failed": 0
   },
   "config": {
@@ -3567,16 +3552,6 @@
     "status": "Fontes diárias: Binance. Binance é alternativa identificada; não é cotação Bipa.",
     "observations": [
       {
-        "date": "2026-10-26",
-        "price_brl": "429679.00000000",
-        "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
-        "observed_at": "2026-10-26T23:59:59.999000-03:00",
-        "consulted_at": "2026-11-24T15:22:35.182791-03:00",
-        "nature": "daily_close",
-        "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
-        "source": "Binance"
-      },
-      {
         "date": "2026-10-27",
         "price_brl": "433683.00000000",
         "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
@@ -3855,30 +3830,29 @@
         "nature": "daily_close",
         "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
         "source": "Binance"
+      },
+      {
+        "date": "2026-11-24",
+        "price_brl": "350456.00000000",
+        "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&startTime=1795489200000&endTime=1795575599999&limit=1000",
+        "observed_at": "2026-11-24T23:59:59.999000-03:00",
+        "consulted_at": "2026-11-25T08:41:39.196526-03:00",
+        "nature": "daily_close",
+        "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+        "source": "Binance"
       }
     ],
     "comparison": [
-      {
-        "date": "2026-10-26",
-        "source": "Binance",
-        "btc_brl": "429679.00000000",
-        "fx": "5.5007",
-        "sats_usd": "1280.19",
-        "base_date": "2026-10-26",
-        "btc_index": "100",
-        "usd_index": "100",
-        "divergence_pct": "0"
-      },
       {
         "date": "2026-10-27",
         "source": "Binance",
         "btc_brl": "433683.00000000",
         "fx": "5.3346",
         "sats_usd": "1230.07",
-        "base_date": "2026-10-26",
-        "btc_index": "100.9318584338541096958427105",
-        "usd_index": "96.98038431472358063519188467",
-        "divergence_pct": "4.074508620534117122918681400"
+        "base_date": "2026-10-27",
+        "btc_index": "100",
+        "usd_index": "100",
+        "divergence_pct": "0"
       },
       {
         "date": "2026-10-28",
@@ -3886,10 +3860,10 @@
         "btc_brl": "428530.00000000",
         "fx": "5.342",
         "sats_usd": "1246.59",
-        "base_date": "2026-10-26",
-        "btc_index": "99.73259107380160538448469672",
-        "usd_index": "97.11491264748122966167942262",
-        "divergence_pct": "2.695444350366995645532566700"
+        "base_date": "2026-10-27",
+        "btc_index": "98.81180493586329185142142994",
+        "usd_index": "100.1387170546995088666441720",
+        "divergence_pct": "-1.325074015189757261214384090"
       },
       {
         "date": "2026-10-29",
@@ -3897,10 +3871,10 @@
         "btc_brl": "418614.00000000",
         "fx": "5.3744",
         "sats_usd": "1283.86",
-        "base_date": "2026-10-26",
-        "btc_index": "97.42482178556550355032477733",
-        "usd_index": "97.70392859090661188575999418",
-        "divergence_pct": "-0.2856658983588558017134000700"
+        "base_date": "2026-10-27",
+        "btc_index": "96.52534224306694059947011988",
+        "usd_index": "100.7460728077081693097889251",
+        "divergence_pct": "-4.189474038057289870137447590"
       },
       {
         "date": "2026-10-30",
@@ -3908,10 +3882,10 @@
         "btc_brl": "419790.00000000",
         "fx": "5.4212",
         "sats_usd": "1291.41",
-        "base_date": "2026-10-26",
-        "btc_index": "97.69851447243174555889396503",
-        "usd_index": "98.55472939807660843165415311",
-        "divergence_pct": "-0.8687710177626166170205796800"
+        "base_date": "2026-10-27",
+        "btc_index": "96.79650804850547519732154592",
+        "usd_index": "101.6233644509429010609980130",
+        "divergence_pct": "-4.749750639054580537956260840"
       },
       {
         "date": "2026-11-03",
@@ -3919,10 +3893,10 @@
         "btc_brl": "420634.00000000",
         "fx": "5.4935",
         "sats_usd": "1306.00",
-        "base_date": "2026-10-26",
-        "btc_index": "97.89494017627112332694872219",
-        "usd_index": "99.86910756812769283909320632",
-        "divergence_pct": "-1.976754814305166454073571280"
+        "base_date": "2026-10-27",
+        "btc_index": "96.99112024220455955156185509",
+        "usd_index": "102.9786675664529674202376935",
+        "divergence_pct": "-5.814356959303823903929758370"
       },
       {
         "date": "2026-11-04",
@@ -3930,10 +3904,10 @@
         "btc_brl": "441375.00000000",
         "fx": "5.4778",
         "sats_usd": "1241.08",
-        "base_date": "2026-10-26",
-        "btc_index": "102.7220320285608558947493361",
-        "usd_index": "99.58368934862835639100478121",
-        "divergence_pct": "3.151462554219704994751117800"
+        "base_date": "2026-10-27",
+        "btc_index": "101.7736457274091905839057560",
+        "usd_index": "102.6843624639148202301953286",
+        "divergence_pct": "-0.8869088872472401166702606900"
       },
       {
         "date": "2026-11-05",
@@ -3941,10 +3915,10 @@
         "btc_brl": "420975.00000000",
         "fx": "5.4621",
         "sats_usd": "1297.49",
-        "base_date": "2026-10-26",
-        "btc_index": "97.97430174618727003181444753",
-        "usd_index": "99.29827112912901994291635610",
-        "divergence_pct": "-1.333325714422600050529698920"
+        "base_date": "2026-10-27",
+        "btc_index": "97.06974910245501898852387573",
+        "usd_index": "102.3900573613766730401529637",
+        "divergence_pct": "-5.196118056799299848743254920"
       },
       {
         "date": "2026-11-06",
@@ -3952,10 +3926,10 @@
         "btc_brl": "421607.00000000",
         "fx": "5.5013",
         "sats_usd": "1304.84",
-        "base_date": "2026-10-26",
-        "btc_index": "98.12138829219021641737203820",
-        "usd_index": "100.0109077026560255967422328",
-        "divergence_pct": "-1.889313329785555514689551460"
+        "base_date": "2026-10-27",
+        "btc_index": "97.21547766456144234383178497",
+        "usd_index": "103.1248828403254227121058749",
+        "divergence_pct": "-5.730338801852385740205944070"
       },
       {
         "date": "2026-11-09",
@@ -3963,10 +3937,10 @@
         "btc_brl": "413810.00000000",
         "fx": "5.5146",
         "sats_usd": "1332.64",
-        "base_date": "2026-10-26",
-        "btc_index": "96.30677785044184146770030651",
-        "usd_index": "100.2526951115312596578617267",
-        "divergence_pct": "-3.935971254138933492659653290"
+        "base_date": "2026-10-27",
+        "btc_index": "95.41762070452381117083215159",
+        "usd_index": "103.3741986278258913508041840",
+        "divergence_pct": "-7.696870233497856041794292260"
       },
       {
         "date": "2026-11-10",
@@ -3974,10 +3948,10 @@
         "btc_brl": "411448.00000000",
         "fx": "5.5840",
         "sats_usd": "1357.16",
-        "base_date": "2026-10-26",
-        "btc_index": "95.75706515794348804572715911",
-        "usd_index": "101.5143527187448870143799880",
-        "divergence_pct": "-5.671402522510790706817445540"
+        "base_date": "2026-10-27",
+        "btc_index": "94.87298326196784287140607310",
+        "usd_index": "104.6751396543320961271697972",
+        "divergence_pct": "-9.364359507647984494662815650"
       },
       {
         "date": "2026-11-11",
@@ -3985,10 +3959,10 @@
         "btc_brl": "413262.00000000",
         "fx": "5.5606",
         "sats_usd": "1345.54",
-        "base_date": "2026-10-26",
-        "btc_index": "96.17924078207219808275480068",
-        "usd_index": "101.0889523151598887414329085",
-        "divergence_pct": "-4.856823046084138403443993040"
+        "base_date": "2026-10-27",
+        "btc_index": "95.29126112852014028679934422",
+        "usd_index": "104.2364938327147302515652533",
+        "divergence_pct": "-8.581670752040509949652954460"
       },
       {
         "date": "2026-11-12",
@@ -3996,10 +3970,10 @@
         "btc_brl": "398176.00000000",
         "fx": "5.6143",
         "sats_usd": "1410.00",
-        "base_date": "2026-10-26",
-        "btc_index": "92.66824769188161394901775511",
-        "usd_index": "102.0651917028741796498627447",
-        "divergence_pct": "-9.206805821075967823350735490"
+        "base_date": "2026-10-27",
+        "btc_index": "91.81268345773295240993997920",
+        "usd_index": "105.2431297566827878378885015",
+        "divergence_pct": "-12.76135205214858345188789111"
       },
       {
         "date": "2026-11-13",
@@ -4007,10 +3981,10 @@
         "btc_brl": "386772.00000000",
         "fx": "5.6518",
         "sats_usd": "1461.27",
-        "base_date": "2026-10-26",
-        "btc_index": "90.01417337128414467544376151",
-        "usd_index": "102.7469231188757794462522952",
-        "divergence_pct": "-12.39234164984205127283104520"
+        "base_date": "2026-10-27",
+        "btc_index": "89.18311301111641452397257905",
+        "usd_index": "105.9460878041465152026393731",
+        "divergence_pct": "-15.82217441008145636441768633"
       },
       {
         "date": "2026-11-16",
@@ -4018,10 +3992,10 @@
         "btc_brl": "374533.00000000",
         "fx": "5.73240",
         "sats_usd": "1530.55",
-        "base_date": "2026-10-26",
-        "btc_index": "87.16576793373658009816630554",
-        "usd_index": "104.2121911756685512752922355",
-        "divergence_pct": "-16.35741754359346763205927761"
+        "base_date": "2026-10-27",
+        "btc_index": "86.36100561931180147711577350",
+        "usd_index": "107.4569789674952198852772467",
+        "divergence_pct": "-19.63201790231303883891183359"
       },
       {
         "date": "2026-11-17",
@@ -4029,10 +4003,10 @@
         "btc_brl": "372548.00000000",
         "fx": "5.78510",
         "sats_usd": "1552.85",
-        "base_date": "2026-10-26",
-        "btc_index": "86.70379515871150323846406271",
-        "usd_index": "105.1702510589561328558183504",
-        "divergence_pct": "-17.55863061493762149940030947"
+        "base_date": "2026-10-27",
+        "btc_index": "85.90329803105032938805533074",
+        "usd_index": "108.4448693435309114085404716",
+        "divergence_pct": "-20.78620357877286699391195182"
       },
       {
         "date": "2026-11-18",
@@ -4040,10 +4014,10 @@
         "btc_brl": "370347.00000000",
         "fx": "5.81020",
         "sats_usd": "1568.85",
-        "base_date": "2026-10-26",
-        "btc_index": "86.19155229834364723433074458",
-        "usd_index": "105.6265566200665369862017561",
-        "divergence_pct": "-18.39973293045008771782673111"
+        "base_date": "2026-10-27",
+        "btc_index": "85.39578447852463665857319747",
+        "usd_index": "108.9153825966332995913470551",
+        "divergence_pct": "-21.59437680645459248927324720"
       },
       {
         "date": "2026-11-19",
@@ -4051,37 +4025,36 @@
         "btc_brl": "372038.00000000",
         "fx": "5.88890",
         "sats_usd": "1582.88",
-        "base_date": "2026-10-26",
-        "btc_index": "86.58510190165216359189069049",
-        "usd_index": "107.0572836184485610922246260",
-        "divergence_pct": "-19.12264259362222889335646369"
+        "base_date": "2026-10-27",
+        "btc_index": "85.78570061542647509817078373",
+        "usd_index": "110.3906572189105087541708844",
+        "divergence_pct": "-22.28898461460475232068775782"
       },
       {
         "date": "2026-11-23",
         "source": "Binance",
         "btc_brl": "357354.00000000",
-        "fx": "5.9708",
+        "fx": "5.97080",
         "sats_usd": "1670.84",
-        "base_date": "2026-10-26",
-        "btc_index": "83.16766702584952953251147950",
-        "usd_index": "108.5461850309960550475394041",
-        "divergence_pct": "-23.38038688130727756758124620"
+        "base_date": "2026-10-27",
+        "btc_index": "82.39981737813103119098512047",
+        "usd_index": "111.9259175945712893187867881",
+        "divergence_pct": "-26.38003855674653329680625313"
+      },
+      {
+        "date": "2026-11-24",
+        "source": "Binance",
+        "btc_brl": "350456.00000000",
+        "fx": "5.85730",
+        "sats_usd": "1671.34",
+        "base_date": "2026-10-27",
+        "btc_index": "80.80925468602642944270354153",
+        "usd_index": "109.7982979042477411614741499",
+        "divergence_pct": "-26.40208798455319165741104048"
       }
     ],
     "soy": {
       "Paranaguá": [
-        {
-          "date": "2026-10-26",
-          "source": "Binance",
-          "sats_sc": "36201.44",
-          "usd_bu": "12.82679969144177207602151457",
-          "premium_sats": "4375.36",
-          "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "100",
-          "usd_index": "100",
-          "premium_index": "100"
-        },
         {
           "date": "2026-10-27",
           "source": "Binance",
@@ -4089,10 +4062,10 @@
           "usd_bu": "13.38433244746823482631137753",
           "premium_sats": "3797.70",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "100.2614813112406578301857606",
-          "usd_index": "104.3466240172009292441068390",
-          "premium_index": "86.79742924010824252175820961"
+          "base_date": "2026-10-27",
+          "sats_index": "100",
+          "usd_index": "100",
+          "premium_index": "100"
         },
         {
           "date": "2026-10-28",
@@ -4101,10 +4074,10 @@
           "usd_bu": "13.36664092163204827807215956",
           "premium_sats": "3848.04",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "101.4735325445617632889741403",
-          "usd_index": "104.2086977513998768394801072",
-          "premium_index": "87.94796313903313098807869524"
+          "base_date": "2026-10-27",
+          "sats_index": "101.2088902113450205393967947",
+          "usd_index": "99.86781913923893113370589834",
+          "premium_index": "101.3255391421123311477999842"
         },
         {
           "date": "2026-10-29",
@@ -4113,10 +4086,10 @@
           "usd_bu": "13.35864202617465243473698062",
           "premium_sats": "3963.08",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "104.4447126965115199837354536",
-          "usd_index": "104.1463369470697614865056902",
-          "premium_index": "90.57723250201126307320997586"
+          "base_date": "2026-10-27",
+          "sats_index": "104.1723215441879430572430647",
+          "usd_index": "99.80805601329454452857082797",
+          "premium_index": "104.3547410274639913631935119"
         },
         {
           "date": "2026-10-30",
@@ -4125,10 +4098,10 @@
           "usd_bu": "13.29352199718409869890403138",
           "premium_sats": "3985.33",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "104.5469461988252401009462607",
-          "usd_index": "103.6386496785611344326900904",
-          "premium_index": "91.08576208586264901630951510"
+          "base_date": "2026-10-27",
+          "sats_index": "104.2742884221720790938971405",
+          "usd_index": "99.32151677612196692425396233",
+          "premium_index": "104.9406219553940542960212760"
         },
         {
           "date": "2026-11-03",
@@ -4137,10 +4110,10 @@
           "usd_bu": "13.15159344951464307769738887",
           "premium_sats": "4607.33",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "104.5998446470637632094192938",
-          "usd_index": "102.5321496077433729356721718",
-          "premium_index": "105.3017351715058875155415783"
+          "base_date": "2026-10-27",
+          "sats_index": "104.3270489115910524822226079",
+          "usd_index": "98.26110865919490520434002531",
+          "premium_index": "121.3189562103378360586670880"
         },
         {
           "date": "2026-11-04",
@@ -4149,10 +4122,10 @@
           "usd_bu": "13.09737312158807033444477877",
           "premium_sats": "4377.23",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "98.98981918951290335412072006",
-          "usd_index": "102.1094383373494855404143822",
-          "premium_index": "100.0427393403057119871279163"
+          "base_date": "2026-10-27",
+          "sats_index": "98.73165436506952537600458451",
+          "usd_index": "97.85600569168135544114883017",
+          "premium_index": "115.2600258050925560207494010"
         },
         {
           "date": "2026-11-05",
@@ -4161,10 +4134,10 @@
           "usd_bu": "13.16491531331025832020110817",
           "premium_sats": "4577.47",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "104.0229891407634613429742021",
-          "usd_index": "102.6360092150973708656626398",
-          "premium_index": "104.6192770423462297959482191"
+          "base_date": "2026-10-27",
+          "sats_index": "103.7516978408148533864519880",
+          "usd_index": "98.36064192951602003272986136",
+          "premium_index": "120.5326908391921426126339627"
         },
         {
           "date": "2026-11-06",
@@ -4173,10 +4146,10 @@
           "usd_bu": "13.07028302469191019827125791",
           "premium_sats": "4603.81",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "103.8605094162000185627975020",
-          "usd_index": "101.8982391485585742414421166",
-          "premium_index": "105.2212846485774884809478534"
+          "base_date": "2026-10-27",
+          "sats_index": "103.5896418623488473968277584",
+          "usd_index": "97.65360413745752511306725080",
+          "premium_index": "121.2262685309529452036759091"
         },
         {
           "date": "2026-11-09",
@@ -4185,10 +4158,10 @@
           "usd_bu": "13.04698569156079671126785059",
           "premium_sats": "4700.22",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "105.8841858224424221798911866",
-          "usd_index": "101.7166090171809258664906622",
-          "premium_index": "107.4247604768521904483288232"
+          "base_date": "2026-10-27",
+          "sats_index": "105.6080405332804350880673130",
+          "usd_index": "97.47953992302955501162114279",
+          "premium_index": "123.7649103404692313768860100"
         },
         {
           "date": "2026-11-10",
@@ -4197,10 +4170,10 @@
           "usd_bu": "12.98637149560811589748529910",
           "premium_sats": "4787.97",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "107.3312553312796397049399140",
-          "usd_index": "101.2440500203087482350730700",
-          "premium_index": "109.4303097345132743362831858"
+          "base_date": "2026-10-27",
+          "sats_index": "107.0513360939605081537685867",
+          "usd_index": "97.02666566732361185515751118",
+          "premium_index": "126.0755193933170076625325855"
         },
         {
           "date": "2026-11-11",
@@ -4209,10 +4182,10 @@
           "usd_bu": "13.08506970517047883514030965",
           "premium_sats": "4745.17",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "107.2210663443222148069248074",
-          "usd_index": "102.0135187259611474324225850",
-          "premium_index": "108.4521045125429678929276677"
+          "base_date": "2026-10-27",
+          "sats_index": "106.9414344791864690696796626",
+          "usd_index": "97.76408167181797555606816046",
+          "premium_index": "124.9485214735234484029807515"
         },
         {
           "date": "2026-11-12",
@@ -4221,10 +4194,10 @@
           "usd_bu": "13.11341843693758439068691418",
           "premium_sats": "4972.68",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "112.6015429220495096327659894",
-          "usd_index": "102.2345304549119023354475046",
-          "premium_index": "113.6519052146566225407737878"
+          "base_date": "2026-10-27",
+          "sats_index": "112.3078788079160019947046652",
+          "usd_index": "97.97588701869179719036839282",
+          "premium_index": "130.9392527055849593174816336"
         },
         {
           "date": "2026-11-13",
@@ -4233,10 +4206,10 @@
           "usd_bu": "13.20136906349629756806120675",
           "premium_sats": "5155.49",
           "premium_condition": "embarque nov/26; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "117.4785588639567928789573011",
-          "usd_index": "102.9202091017640483060277636",
-          "premium_index": "117.8300756966283917209098223"
+          "base_date": "2026-10-27",
+          "sats_index": "117.1721755229900733136617984",
+          "usd_index": "98.63300329179624939132512942",
+          "premium_index": "135.7529557363667482950206704"
         },
         {
           "date": "2026-11-16",
@@ -4245,9 +4218,9 @@
           "usd_bu": "13.14077427778534040270305773",
           "premium_sats": "5398.72",
           "premium_condition": "embarque novembro/2026; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "122.4828349369527841986396121",
-          "usd_index": "102.4478014305708442008040555",
+          "base_date": "2026-10-27",
+          "sats_index": "122.1634004755331840059951345",
+          "usd_index": "98.18027405820328669989584516",
           "premium_index": "100"
         },
         {
@@ -4257,9 +4230,9 @@
           "usd_bu": "13.12770061482241539805432040",
           "premium_sats": "5478.49",
           "premium_condition": "embarque novembro/2026; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "124.1438462116424098046928520",
-          "usd_index": "102.3458768408257658290750486",
+          "base_date": "2026-10-27",
+          "sats_index": "123.8200798432889483994148132",
+          "usd_index": "98.08259520111992126141683414",
           "premium_index": "101.4775724616205322743168751"
         },
         {
@@ -4269,9 +4242,9 @@
           "usd_bu": "13.11080396726813733904941986",
           "premium_sats": "5532.65",
           "premium_condition": "embarque novembro/2026; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "125.2620337754520262177416147",
-          "usd_index": "102.2141475867581923811903032",
+          "base_date": "2026-10-27",
+          "sats_index": "124.9353511809808767333129455",
+          "usd_index": "97.95635321168492176147548647",
           "premium_index": "102.4807732203188904036512358"
         },
         {
@@ -4281,9 +4254,9 @@
           "usd_bu": "12.99335833393300299612917049",
           "premium_sats": "5582.76",
           "premium_condition": "embarque novembro/2026; base CBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "125.2495480842751006589793113",
-          "usd_index": "101.2985206481579444700998609",
+          "base_date": "2026-10-27",
+          "sats_index": "124.9228980524078344505332529",
+          "usd_index": "97.07886728703314560236937711",
           "premium_index": "103.4089561970244798767115168"
         },
         {
@@ -4293,9 +4266,9 @@
           "usd_bu": "12.97086711278909404655480590",
           "premium_sats": "5893.32",
           "premium_condition": "embarque novembro2026;baseCBOT não confirmada",
-          "base_date": "2026-10-26",
-          "sats_index": "131.9807996587981030588838455",
-          "usd_index": "101.1231751084679825186743491",
+          "base_date": "2026-10-27",
+          "sats_index": "131.6365945652563223046002188",
+          "usd_index": "96.91082587568757368702004923",
           "premium_index": "100"
         }
       ],
@@ -4371,78 +4344,25 @@
           "sats_index": "116.6382101271209422052375330",
           "usd_index": "104.1498533112373666126614850",
           "premium_index": "126.1055595497849378862538109"
+        },
+        {
+          "date": "2026-11-24",
+          "source": "Binance",
+          "sats_sc": "50029.10",
+          "usd_bu": "13.577887459002734",
+          "premium_sats": "4628.26",
+          "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+          "base_date": "2026-11-06",
+          "sats_index": "130.4509831325904386027126366",
+          "usd_index": "101.8478194867889979109730046",
+          "premium_index": "115.9421524248034129367940339"
         }
       ]
     },
-    "base_date": "2026-10-26",
+    "base_date": "2026-10-27",
     "method": "sats/sc = BRL/sc ÷ BTC/BRL × 100.000.000; sats/US$ = PTAX venda ÷ BTC/BRL × 100.000.000. Mesma data civil; horários podem diferir. Arredondamento HALF_UP a 0,01 sat apenas na apresentação. SOMA e residual fecham sobre parcelas apresentadas.",
     "confronto": {
       "rows": [
-        {
-          "from": "2026-10-26",
-          "to": "2026-10-27",
-          "days": 1,
-          "source": "Binance",
-          "btc_return_pct": "0.931858433854109695842710500",
-          "usd_return_pct": "-3.019615685276419364808115330",
-          "spread_pp": "3.951474119130529060650825830",
-          "btc_in_usd_return_pct": "4.074508620534117122918681400",
-          "leader": "Bitcoin",
-          "btc_brl_start": "429679.00000000",
-          "btc_brl_end": "433683.00000000",
-          "fx_start": "5.5007",
-          "fx_end": "5.3346",
-          "benchmark_brl": "1000",
-          "btc_value_brl": "1009.32",
-          "usd_value_brl": "969.80",
-          "long_btc_short_usd_brl": "39.51",
-          "difference_presented_brl": "39.52",
-          "initial_by_port": {
-            "Paranaguá": {
-              "premium": "18.80",
-              "physical": "155.55"
-            },
-            "Santos": {
-              "premium": null,
-              "physical": null
-            }
-          },
-          "scenarios": {
-            "benchmark": {
-              "initial_brl": "1000",
-              "btc_quantity": "0.002327318765869404834772004217",
-              "usd_quantity": "181.7950442670932790372134456",
-              "btc_final_brl": "1009.32",
-              "usd_final_brl": "969.80",
-              "difference_brl": "39.52",
-              "direct_difference_brl": "39.51"
-            },
-            "premium": {
-              "Paranaguá": {
-                "initial_brl": "18.80",
-                "btc_quantity": "0.00004375359279834481089371367928",
-                "usd_quantity": "3.417746832221353645899612777",
-                "btc_final_brl": "18.98",
-                "usd_final_brl": "18.23",
-                "difference_brl": "0.75",
-                "direct_difference_brl": "0.74"
-              },
-              "Santos": null
-            },
-            "physical": {
-              "Paranaguá": {
-                "initial_brl": "155.55",
-                "btc_quantity": "0.0003620144340309859220487852560",
-                "usd_quantity": "28.27821913574635955423855146",
-                "btc_final_brl": "157.00",
-                "usd_final_brl": "150.85",
-                "difference_brl": "6.15",
-                "direct_difference_brl": "6.15"
-              },
-              "Santos": null
-            }
-          }
-        },
         {
           "from": "2026-10-27",
           "to": "2026-10-28",
@@ -5592,7 +5512,7 @@
           "btc_brl_start": "372038.00000000",
           "btc_brl_end": "357354.00000000",
           "fx_start": "5.88890",
-          "fx_end": "5.9708",
+          "fx_end": "5.97080",
           "benchmark_brl": "1000",
           "btc_value_brl": "960.53",
           "usd_value_brl": "1013.91",
@@ -5639,6 +5559,71 @@
                 "usd_final_brl": "171.04",
                 "difference_brl": "-9.01",
                 "direct_difference_brl": "-9.00"
+              },
+              "Santos": null
+            }
+          }
+        },
+        {
+          "from": "2026-11-23",
+          "to": "2026-11-24",
+          "days": 1,
+          "source": "Binance",
+          "btc_return_pct": "-1.930298807345097578311702120",
+          "usd_return_pct": "-1.900917799959804381322435850",
+          "spread_pp": "-0.0293810073852931969892662700",
+          "btc_in_usd_return_pct": "-0.0299503387048825603236151500",
+          "leader": "Dólar",
+          "btc_brl_start": "357354.00000000",
+          "btc_brl_end": "350456.00000000",
+          "fx_start": "5.97080",
+          "fx_end": "5.85730",
+          "benchmark_brl": "1000",
+          "btc_value_brl": "980.70",
+          "usd_value_brl": "980.99",
+          "long_btc_short_usd_brl": "-0.29",
+          "difference_presented_brl": "-0.29",
+          "initial_by_port": {
+            "Paranaguá": {
+              "premium": "21.06",
+              "physical": "170.74"
+            },
+            "Santos": {
+              "premium": null,
+              "physical": null
+            }
+          },
+          "scenarios": {
+            "benchmark": {
+              "initial_brl": "1000",
+              "btc_quantity": "0.002798345618070596663252685013",
+              "usd_quantity": "167.4817444898506062839150533",
+              "btc_final_brl": "980.70",
+              "usd_final_brl": "980.99",
+              "difference_brl": "-0.29",
+              "direct_difference_brl": "-0.29"
+            },
+            "premium": {
+              "Paranaguá": {
+                "initial_brl": "21.06",
+                "btc_quantity": "0.00005893315871656676572810154637",
+                "usd_quantity": "3.527165538956253768339251022",
+                "btc_final_brl": "20.65",
+                "usd_final_brl": "20.66",
+                "difference_brl": "-0.01",
+                "direct_difference_brl": "-0.01"
+              },
+              "Santos": null
+            },
+            "physical": {
+              "Paranaguá": {
+                "initial_brl": "170.74",
+                "btc_quantity": "0.0004777895308293736742837634391",
+                "usd_quantity": "28.59583305419709251691565619",
+                "btc_final_brl": "167.44",
+                "usd_final_brl": "167.49",
+                "difference_brl": "-0.05",
+                "direct_difference_brl": "-0.05"
               },
               "Santos": null
             }

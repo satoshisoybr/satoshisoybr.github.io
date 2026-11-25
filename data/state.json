@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T15:24:25.782230-03:00",
+  "updated_at": "2026-11-25T08:41:39.789110-03:00",
   "markets": {
     "Paranaguá": [
       {
@@ -1692,10 +1692,10 @@
         "port": "Paranaguá",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-16",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-16-2026'&$format=json",
-            "published_at": "2026-11-16T13:06:32.509132-03:00",
-            "consulted_at": "2026-11-16T22:05:00.137032-03:00"
+            "published_at": "2026-11-16 13:06:32.509132 Brasília",
+            "consulted_at": "2026-11-25T08:41:20.812961-03:00"
           },
           "cbot": {
             "date": "2026-11-16",
@@ -1728,10 +1728,10 @@
         "port": "Paranaguá",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-17",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-17-2026'&$format=json",
             "published_at": "2026-11-17 13:07:26.01516 Brasília",
-            "consulted_at": "2026-11-18T13:30:38.557237-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813046-03:00"
           },
           "cbot": {
             "date": "2026-11-17",
@@ -1764,10 +1764,10 @@
         "port": "Paranaguá",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-18",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-18-2026'&$format=json",
             "published_at": "2026-11-18 13:08:44.271245 Brasília",
-            "consulted_at": "2026-11-18T13:31:38.075959-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813059-03:00"
           },
           "cbot": {
             "date": "2026-11-18",
@@ -1800,10 +1800,10 @@
         "port": "Paranaguá",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-19",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-19-2026'&$format=json",
             "published_at": "2026-11-19 13:04:18.325373 Brasília",
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813069-03:00"
           },
           "cbot": {
             "date": "2026-11-19",
@@ -1865,10 +1865,10 @@
         "port": "Paranaguá",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-23",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-23-2026'&$format=json",
             "published_at": "2026-11-23 13:06:23.798289 Brasília",
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813080-03:00"
           },
           "cbot": {
             "date": "2026-11-23",
@@ -1891,7 +1891,7 @@
         },
         "contract": "ZSF27",
         "premium_condition": "embarque novembro2026;baseCBOT não confirmada",
-        "fx": "5.9708",
+        "fx": "5.97080",
         "cbot": "12.2875",
         "premium": "1.60",
         "physical_brl_raw": "170.74"
@@ -1899,9 +1899,17 @@
       {
         "date": "2026-11-24",
         "port": "Paranaguá",
-        "sources": {},
+        "sources": {
+          "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
+            "date": "2026-11-24",
+            "published_at": "2026-11-24 13:07:40.485706 Brasília",
+            "consulted_at": "2026-11-25T08:41:20.813097-03:00"
+          }
+        },
         "contract": "ZSF27",
-        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.85730"
       }
     ],
     "Santos": [
@@ -3125,10 +3133,10 @@
         "port": "Santos",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-16",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-16-2026'&$format=json",
-            "published_at": "2026-11-16T13:06:32.509132-03:00",
-            "consulted_at": "2026-11-16T22:05:00.137032-03:00"
+            "published_at": "2026-11-16 13:06:32.509132 Brasília",
+            "consulted_at": "2026-11-25T08:41:20.812961-03:00"
           },
           "cbot": {
             "date": "2026-11-16",
@@ -3147,10 +3155,10 @@
         "port": "Santos",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-17",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-17-2026'&$format=json",
             "published_at": "2026-11-17 13:07:26.01516 Brasília",
-            "consulted_at": "2026-11-18T13:30:38.557237-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813046-03:00"
           },
           "cbot": {
             "date": "2026-11-17",
@@ -3169,10 +3177,10 @@
         "port": "Santos",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-18",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-18-2026'&$format=json",
             "published_at": "2026-11-18 13:08:44.271245 Brasília",
-            "consulted_at": "2026-11-18T13:31:38.075959-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813059-03:00"
           },
           "cbot": {
             "date": "2026-11-18",
@@ -3191,10 +3199,10 @@
         "port": "Santos",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-19",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-19-2026'&$format=json",
             "published_at": "2026-11-19 13:04:18.325373 Brasília",
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813069-03:00"
           },
           "cbot": {
             "date": "2026-11-19",
@@ -3242,10 +3250,10 @@
         "port": "Santos",
         "sources": {
           "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-23",
-            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-23-2026'&$format=json",
             "published_at": "2026-11-23 13:06:23.798289 Brasília",
-            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+            "consulted_at": "2026-11-25T08:41:20.813080-03:00"
           },
           "cbot": {
             "date": "2026-11-23",
@@ -3256,15 +3264,43 @@
         },
         "contract": "ZSF27",
         "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
-        "fx": "5.9708",
+        "fx": "5.97080",
         "cbot": "12.2875"
       },
       {
         "date": "2026-11-24",
         "port": "Santos",
-        "sources": {},
+        "sources": {
+          "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
+            "date": "2026-11-24",
+            "published_at": "2026-11-24 13:07:40.485706 Brasília",
+            "consulted_at": "2026-11-25T08:41:20.813097-03:00"
+          },
+          "physical_usd_raw": {
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "date": "2026-11-24",
+            "published_at": "2026-11-25T08:30:06-03:00",
+            "consulted_at": "2026-11-25T08:41:21.311537-03:00"
+          },
+          "premium_condition": {
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "date": "2026-11-24",
+            "published_at": "2026-11-25T08:30:06-03:00",
+            "consulted_at": "2026-11-25T08:41:21.311589-03:00"
+          },
+          "premium": {
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "date": "2026-11-24",
+            "published_at": "2026-11-25T08:30:06-03:00",
+            "consulted_at": "2026-11-25T08:41:21.311589-03:00"
+          }
+        },
         "contract": "ZSF27",
-        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.85730",
+        "physical_usd_raw": "13.577887459002734",
+        "premium": "1.2558874590027335"
       }
     ]
   },
@@ -3924,6 +3960,198 @@
       "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261123.zip",
       "publication_time": "2026-11-23T20:36:30-03:00",
       "consultation_recorded_at": "2026-11-24T12:05:53.892020-03:00"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "settlement": "442",
+      "previous_settlement": "441.2",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.050117-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SJCK28",
+      "family": "SJC",
+      "settlement": "26.3889",
+      "previous_settlement": "26.2125",
+      "unit": "USD/sc 60kg",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.155247-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SJCU27",
+      "family": "SJC",
+      "settlement": "26.2676",
+      "previous_settlement": "26.1299",
+      "unit": "USD/sc 60kg",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.170282-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SJCN27",
+      "family": "SJC",
+      "settlement": "27.5022",
+      "previous_settlement": "27.403",
+      "unit": "USD/sc 60kg",
+      "volume": "3",
+      "number_of_trades": "2",
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.251741-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SJCX27",
+      "family": "SJC",
+      "settlement": "26.1133",
+      "previous_settlement": "25.9425",
+      "unit": "USD/sc 60kg",
+      "volume": "1",
+      "number_of_trades": "1",
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.478989-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SJCK27",
+      "family": "SJC",
+      "settlement": "27.403",
+      "previous_settlement": "27.3093",
+      "unit": "USD/sc 60kg",
+      "volume": "484",
+      "number_of_trades": "45",
+      "bid": "27.35",
+      "ask": "27.59",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.506347-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SOYK27",
+      "family": "SOY",
+      "settlement": "451.6",
+      "previous_settlement": "449.6",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.516172-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SOYX27",
+      "family": "SOY",
+      "settlement": "477.4",
+      "previous_settlement": "474.6",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.594002-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "settlement": "27.2762",
+      "previous_settlement": "27.1715",
+      "unit": "USD/sc 60kg",
+      "volume": "27",
+      "number_of_trades": "10",
+      "bid": "27.21",
+      "ask": "27.27",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.608474-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SJCF27",
+      "family": "SJC",
+      "settlement": "27.2046",
+      "previous_settlement": "27.0888",
+      "unit": "USD/sc 60kg",
+      "volume": "277",
+      "number_of_trades": "65",
+      "bid": "27.11",
+      "ask": "27.4",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.612081-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SJCF28",
+      "family": "SJC",
+      "settlement": "26.3558",
+      "previous_settlement": "26.185",
+      "unit": "USD/sc 60kg",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.621526-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "SJCQ27",
+      "family": "SJC",
+      "settlement": "27.0888",
+      "previous_settlement": "26.9841",
+      "unit": "USD/sc 60kg",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261124.zip",
+      "publication_time": null,
+      "consulted_at": "2026-11-25T08:41:38.649894-03:00",
+      "archive_entry": "BVBG.086.01_BV000328202611240328000002035558378.xml"
     }
   ],
   "options": [
@@ -3958,8 +4186,41 @@
       "publication_time": "23/11/2026 14:19 Brasília"
     }
   ],
-  "warnings": [],
-  "revisions": [],
+  "warnings": [
+    "fetch_agricultural: HTTPError; captura anterior preservada"
+  ],
+  "revisions": [
+    {
+      "at": "2026-11-25T08:41:20.813086-03:00",
+      "port": "Paranaguá",
+      "date": "2026-11-23",
+      "field": "fx",
+      "previous": "5.9708",
+      "new": "5.97080",
+      "source": {
+        "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
+        "date": "2026-11-23",
+        "published_at": "2026-11-23 13:06:23.798289 Brasília",
+        "consulted_at": "2026-11-25T08:41:20.813080-03:00"
+      },
+      "reason": "nova captura publicada; revisão explícita"
+    },
+    {
+      "at": "2026-11-25T08:41:20.813094-03:00",
+      "port": "Santos",
+      "date": "2026-11-23",
+      "field": "fx",
+      "previous": "5.9708",
+      "new": "5.97080",
+      "source": {
+        "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
+        "date": "2026-11-23",
+        "published_at": "2026-11-23 13:06:23.798289 Brasília",
+        "consulted_at": "2026-11-25T08:41:20.813080-03:00"
+      },
+      "reason": "nova captura publicada; revisão explícita"
+    }
+  ],
   "config": {
     "active_cbot": "ZSF27",
     "cbot_contracts": {
@@ -4590,6 +4851,52 @@
         "symbol": "BTCBRL",
         "interval": "1d"
       }
+    },
+    {
+      "date": "2026-11-24",
+      "price_brl": "350456.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&startTime=1795489200000&endTime=1795575599999&limit=1000",
+      "observed_at": "2026-11-24T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-25T08:41:39.196526-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "a9f93c6c71efab01eb34d8271bc286523d1e524448a255e47f7a82c8abf0da8b",
+        "open_time_ms": 1795489200000,
+        "close_time_ms": 1795575599999,
+        "close": "350456.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    }
+  ],
+  "last_attempt_at": "2026-11-25T08:41:39.789101-03:00",
+  "collection_results": [
+    {
+      "source": "fetch_ptax",
+      "status": "ok",
+      "message": "BCB: 6 fechamentos consultados"
+    },
+    {
+      "source": "fetch_agricultural",
+      "status": "failed",
+      "error_type": "HTTPError"
+    },
+    {
+      "source": "fetch_santos",
+      "status": "ok",
+      "message": "Santos: captura publicada preservada com data dos itens"
+    },
+    {
+      "source": "fetch_b3",
+      "status": "ok",
+      "message": "B3: 12 ajustes novos; puts sem pesquisa automática de ask"
+    },
+    {
+      "source": "fetch_binance",
+      "status": "ok",
+      "message": "Binance: 1 fechamentos BTCBRL consultados; dados públicos, sem chave de conta"
     }
   ]
 }
