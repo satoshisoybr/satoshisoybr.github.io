@@ -1,6 +1,6 @@
 {
   "edition": "2026-11-25",
-  "cutoff": "2026-11-25T08:44:37.681443-03:00",
+  "cutoff": "2026-11-25T20:25:04.633530-03:00",
   "window_start": "2026-10-27",
   "window_end": "2026-11-25",
   "rows": {
@@ -1058,7 +1058,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-16",
             "published_at": "2026-11-16 13:06:32.509132 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121503-03:00"
+            "consulted_at": "2026-11-25T20:25:04.011826-03:00"
           },
           "cbot": {
             "date": "2026-11-16",
@@ -1120,7 +1120,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-17",
             "published_at": "2026-11-17 13:07:26.01516 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121569-03:00"
+            "consulted_at": "2026-11-25T20:25:04.011932-03:00"
           },
           "cbot": {
             "date": "2026-11-17",
@@ -1182,7 +1182,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-18",
             "published_at": "2026-11-18 13:08:44.271245 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121580-03:00"
+            "consulted_at": "2026-11-25T20:25:04.011963-03:00"
           },
           "cbot": {
             "date": "2026-11-18",
@@ -1244,7 +1244,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-19",
             "published_at": "2026-11-19 13:04:18.325373 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121588-03:00"
+            "consulted_at": "2026-11-25T20:25:04.011980-03:00"
           },
           "cbot": {
             "date": "2026-11-19",
@@ -1413,7 +1413,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-23",
             "published_at": "2026-11-23 13:06:23.798289 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121596-03:00"
+            "consulted_at": "2026-11-25T20:25:04.011996-03:00"
           },
           "cbot": {
             "date": "2026-11-23",
@@ -1475,7 +1475,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-24",
             "published_at": "2026-11-24 13:07:40.485706 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121604-03:00"
+            "consulted_at": "2026-11-25T20:25:04.012012-03:00"
           }
         },
         "contract": "ZSF27",
@@ -1511,6 +1511,15 @@
       {
         "date": "2026-11-25",
         "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
+            "date": "2026-11-25",
+            "published_at": "2026-11-25 13:02:42.418138 Brasília",
+            "consulted_at": "2026-11-25T20:25:04.012027-03:00"
+          }
+        },
+        "fx": "5.88250",
         "chicago_brl": null,
         "premium_brl": null,
         "sum": null,
@@ -2486,7 +2495,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-16",
             "published_at": "2026-11-16 13:06:32.509132 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121503-03:00"
+            "consulted_at": "2026-11-25T20:25:04.011826-03:00"
           },
           "cbot": {
             "date": "2026-11-16",
@@ -2534,7 +2543,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-17",
             "published_at": "2026-11-17 13:07:26.01516 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121569-03:00"
+            "consulted_at": "2026-11-25T20:25:04.011932-03:00"
           },
           "cbot": {
             "date": "2026-11-17",
@@ -2582,7 +2591,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-18",
             "published_at": "2026-11-18 13:08:44.271245 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121580-03:00"
+            "consulted_at": "2026-11-25T20:25:04.011963-03:00"
           },
           "cbot": {
             "date": "2026-11-18",
@@ -2630,7 +2639,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-19",
             "published_at": "2026-11-19 13:04:18.325373 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121588-03:00"
+            "consulted_at": "2026-11-25T20:25:04.011980-03:00"
           },
           "cbot": {
             "date": "2026-11-19",
@@ -2785,7 +2794,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-23",
             "published_at": "2026-11-23 13:06:23.798289 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121596-03:00"
+            "consulted_at": "2026-11-25T20:25:04.011996-03:00"
           },
           "cbot": {
             "date": "2026-11-23",
@@ -2833,7 +2842,7 @@
             "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
             "date": "2026-11-24",
             "published_at": "2026-11-24 13:07:40.485706 Brasília",
-            "consulted_at": "2026-11-25T08:44:37.121604-03:00"
+            "consulted_at": "2026-11-25T20:25:04.012012-03:00"
           },
           "physical_usd_raw": {
             "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
@@ -2889,6 +2898,15 @@
       {
         "date": "2026-11-25",
         "port": "Santos",
+        "sources": {
+          "fx": {
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
+            "date": "2026-11-25",
+            "published_at": "2026-11-25 13:02:42.418138 Brasília",
+            "consulted_at": "2026-11-25T20:25:04.012027-03:00"
+          }
+        },
+        "fx": "5.88250",
         "chicago_brl": null,
         "premium_brl": null,
         "sum": null,
@@ -2918,7 +2936,7 @@
           "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
           "date": "2026-11-23",
           "published_at": "2026-11-23 13:06:23.798289 Brasília",
-          "consulted_at": "2026-11-25T08:44:37.121596-03:00"
+          "consulted_at": "2026-11-25T20:25:04.011996-03:00"
         },
         "cbot": {
           "date": "2026-11-23",
@@ -2980,7 +2998,7 @@
           "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarPeriodo(dataInicial=@i,dataFinalCotacao=@f)?@i='11-15-2026'&@f='11-25-2026'&$format=json",
           "date": "2026-11-24",
           "published_at": "2026-11-24 13:07:40.485706 Brasília",
-          "consulted_at": "2026-11-25T08:44:37.121604-03:00"
+          "consulted_at": "2026-11-25T20:25:04.012012-03:00"
         },
         "physical_usd_raw": {
           "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
@@ -3232,7 +3250,8 @@
     }
   ],
   "warnings": [
-    "fetch_agricultural: HTTPError; captura anterior preservada"
+    "fetch_agricultural: HTTPError; captura anterior preservada",
+    "fetch_santos: ValueError; captura anterior preservada"
   ],
   "news": [
     {
