@@ -1,0 +1,30 @@
+ACRÉSCIMO PARA O AGENDAMENTO EXISTENTE — SITE SATOSHISOYBR
+
+Mantenha todas as regras atuais de pesquisa, datas, fontes, cálculos, rolagens e
+entrega de um único PDF. Não crie outro agendamento ou boletim.
+
+Depois de concluir e validar o relatório, atualize também o repositório público
+do projeto SATOSHISOYBR previamente autorizado nesta conversa. Primeiro identifique
+o repositório real e leia seu README, config.json e data/state.json. Se o repositório
+não estiver vinculado ou a permissão de escrita estiver ausente, avise e não diga
+que o site foi atualizado.
+
+Transfira SOMENTE observações públicas verificadas por uma lista de campos permitidos:
+porto, data efetiva, valor original, unidade/moeda, contrato/embarque, fontes,
+horários e status. Preserve as observações anteriores e trilha de revisão.
+Nunca publique nomes, cidade do titular, documentos, dados financeiros pessoais,
+identificadores deLibrary, histórico deconversa, segredos ou PDFs com anexos privados.
+O PDF público deve ser regenerado a partir da base limpa.
+
+Não infira prêmio deSantos deSOY-SJC, não complete lacunas de uma praça com outra,
+não misture datas, não transforme ajuste ou posição em aberto emask deopção.
+Atualize contratos emconfig.json somente após confirmar calendário oficial.
+
+Execute os testes do projeto e python engine.py para gerar os arquivos públicos.
+Registre commit no repositório autorizado, mantendo a licençaMIT, e confira o
+workflow de publicação e o endereçoGitHubPages antes de confirmar sucesso.
+Se a publicação falhar, preserve a última versãoboa e explique a pendência.
+
+Enquanto o repositório não existir e oGitHubPages não estiver ativo, este texto
+é uma instrução preparada, não prova de automação funcionando. O pacote inclui
+um workflow independente, que pode atualizar as fontes automaticamente.

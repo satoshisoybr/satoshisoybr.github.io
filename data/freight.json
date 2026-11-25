@@ -1,0 +1,266 @@
+{
+  "schema": 1,
+  "period": "2026-09",
+  "publication_date": "2026-10-27",
+  "source": "Conab — Boletim Logístico outubro/2026",
+  "source_url": "https://www.gov.br/conab/pt-br/atuacao/logistica/boletim-logistico/boletim-logistico-outubro-2026.pdf/@@download/file",
+  "consulted_at": "2026-11-24T15:24:25.711476-03:00",
+  "evidence_sha256": "5d9d5a9dbe4052b3de8ae2b24403000adcd20410a9a2c7161267e2379786d640",
+  "unit": "BRL/t",
+  "cargo": "grãos; não é pesquisa exclusiva de soja",
+  "method": "Média aritmética simples das rotas selecionadas por agrupamento regional editorial e porto, mesmo mês, sem ponderação por tonelagem. Cobertura parcial; não representa toda a região. N=1 é referência única. Não é cotação atual nem oferta de transporte. Sem interpolar rotas ausentes. Conversão 1 sc=0,06 t.",
+  "routes": [
+    {
+      "region": "Triângulo Mineiro",
+      "origin": "Uberlândia",
+      "uf": "MG",
+      "port": "Santos",
+      "km": "685",
+      "brl_t": "242.5",
+      "page": 29,
+      "period": "2026-09"
+    },
+    {
+      "region": "Triângulo Mineiro",
+      "origin": "Uberlândia",
+      "uf": "MG",
+      "port": "Paranaguá",
+      "km": "1005",
+      "brl_t": "332.5",
+      "page": 29,
+      "period": "2026-09"
+    },
+    {
+      "region": "Noroeste de Minas",
+      "origin": "Paracatu",
+      "uf": "MG",
+      "port": "Paranaguá",
+      "km": "1280",
+      "brl_t": "450",
+      "page": 29,
+      "period": "2026-09"
+    },
+    {
+      "region": "Noroeste de Minas",
+      "origin": "Unaí",
+      "uf": "MG",
+      "port": "Santos",
+      "km": "1038",
+      "brl_t": "370",
+      "page": 29,
+      "period": "2026-09"
+    },
+    {
+      "region": "Noroeste de Minas",
+      "origin": "Unaí",
+      "uf": "MG",
+      "port": "Paranaguá",
+      "km": "1375",
+      "brl_t": "450",
+      "page": 29,
+      "period": "2026-09"
+    },
+    {
+      "region": "Rio Verde",
+      "origin": "Rio Verde",
+      "uf": "GO",
+      "port": "Santos",
+      "km": "977",
+      "brl_t": "302",
+      "page": 17,
+      "period": "2026-09"
+    },
+    {
+      "region": "Rio Verde",
+      "origin": "Rio Verde",
+      "uf": "GO",
+      "port": "Paranaguá",
+      "km": "1262",
+      "brl_t": "346",
+      "page": 17,
+      "period": "2026-09"
+    },
+    {
+      "region": "Oeste e Centro-Oriental do Paraná",
+      "origin": "Toledo",
+      "uf": "PR",
+      "port": "Paranaguá",
+      "km": "640",
+      "brl_t": "206",
+      "page": 33,
+      "period": "2026-09"
+    },
+    {
+      "region": "Oeste e Centro-Oriental do Paraná",
+      "origin": "Campo Mourão",
+      "uf": "PR",
+      "port": "Paranaguá",
+      "km": "554",
+      "brl_t": "290",
+      "page": 33,
+      "period": "2026-09"
+    },
+    {
+      "region": "Oeste e Centro-Oriental do Paraná",
+      "origin": "Cascavel",
+      "uf": "PR",
+      "port": "Paranaguá",
+      "km": "602",
+      "brl_t": "185",
+      "page": 33,
+      "period": "2026-09"
+    },
+    {
+      "region": "Oeste e Centro-Oriental do Paraná",
+      "origin": "Ponta Grossa",
+      "uf": "PR",
+      "port": "Paranaguá",
+      "km": "214",
+      "brl_t": "96",
+      "page": 33,
+      "period": "2026-09"
+    },
+    {
+      "region": "Interior paulista · amostra",
+      "origin": "Araçatuba",
+      "uf": "SP",
+      "port": "Santos",
+      "km": "604",
+      "brl_t": "200",
+      "page": 35,
+      "period": "2026-09"
+    },
+    {
+      "region": "Interior paulista · amostra",
+      "origin": "Barretos",
+      "uf": "SP",
+      "port": "Santos",
+      "km": "500",
+      "brl_t": "180",
+      "page": 35,
+      "period": "2026-09"
+    },
+    {
+      "region": "Interior paulista · amostra",
+      "origin": "Bebedouro",
+      "uf": "SP",
+      "port": "Santos",
+      "km": "461",
+      "brl_t": "175",
+      "page": 35,
+      "period": "2026-09"
+    },
+    {
+      "region": "Interior paulista · amostra",
+      "origin": "Bragança",
+      "uf": "SP",
+      "port": "Santos",
+      "km": "164",
+      "brl_t": "103.89",
+      "page": 35,
+      "period": "2026-09"
+    },
+    {
+      "region": "Interior paulista · amostra",
+      "origin": "Campinas",
+      "uf": "SP",
+      "port": "Santos",
+      "km": "176",
+      "brl_t": "100.18",
+      "page": 35,
+      "period": "2026-09"
+    },
+    {
+      "region": "Interior paulista · amostra",
+      "origin": "Catanduva",
+      "uf": "SP",
+      "port": "Santos",
+      "km": "469",
+      "brl_t": "197.01",
+      "page": 35,
+      "period": "2026-09"
+    }
+  ],
+  "groups": [
+    {
+      "region": "Triângulo Mineiro",
+      "port": "Santos",
+      "period": "2026-09",
+      "n": 1,
+      "mean_brl_t": "242.5",
+      "mean_brl_sc": "14.55",
+      "min_brl_t": "242.5",
+      "max_brl_t": "242.5"
+    },
+    {
+      "region": "Triângulo Mineiro",
+      "port": "Paranaguá",
+      "period": "2026-09",
+      "n": 1,
+      "mean_brl_t": "332.5",
+      "mean_brl_sc": "19.95",
+      "min_brl_t": "332.5",
+      "max_brl_t": "332.5"
+    },
+    {
+      "region": "Noroeste de Minas",
+      "port": "Paranaguá",
+      "period": "2026-09",
+      "n": 2,
+      "mean_brl_t": "450",
+      "mean_brl_sc": "27.00",
+      "min_brl_t": "450",
+      "max_brl_t": "450"
+    },
+    {
+      "region": "Noroeste de Minas",
+      "port": "Santos",
+      "period": "2026-09",
+      "n": 1,
+      "mean_brl_t": "370",
+      "mean_brl_sc": "22.20",
+      "min_brl_t": "370",
+      "max_brl_t": "370"
+    },
+    {
+      "region": "Rio Verde",
+      "port": "Santos",
+      "period": "2026-09",
+      "n": 1,
+      "mean_brl_t": "302",
+      "mean_brl_sc": "18.12",
+      "min_brl_t": "302",
+      "max_brl_t": "302"
+    },
+    {
+      "region": "Rio Verde",
+      "port": "Paranaguá",
+      "period": "2026-09",
+      "n": 1,
+      "mean_brl_t": "346",
+      "mean_brl_sc": "20.76",
+      "min_brl_t": "346",
+      "max_brl_t": "346"
+    },
+    {
+      "region": "Oeste e Centro-Oriental do Paraná",
+      "port": "Paranaguá",
+      "period": "2026-09",
+      "n": 4,
+      "mean_brl_t": "194.25",
+      "mean_brl_sc": "11.66",
+      "min_brl_t": "96",
+      "max_brl_t": "290"
+    },
+    {
+      "region": "Interior paulista · amostra",
+      "port": "Santos",
+      "period": "2026-09",
+      "n": 6,
+      "mean_brl_t": "159.3466666666666666666666667",
+      "mean_brl_sc": "9.56",
+      "min_brl_t": "100.18",
+      "max_brl_t": "200"
+    }
+  ]
+}

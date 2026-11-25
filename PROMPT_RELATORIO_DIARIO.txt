@@ -1,0 +1,54 @@
+SATOSHISOYBR INDEX — RELATÓRIO DE COMPOSIÇÃO DO PREÇO DA SOJA
+Texto reutilizável. Horário sugerido: 12h, America/Sao_Paulo; altere se desejar.
+
+ESCOPO DO PROJETO
+O SATOSHISOYBR INDEX decompõe e apresenta preços da soja, fontes e referências de cálculo; a plataforma não executa operações financeiras. O Bitcoin já é uma referência de valor em satoshis. Seu uso como componente alternativo ao prêmio comercial é pesquisa futura, dependente de metodologia específica, e não está implementado. Preserve essa distinção no relatório: comparações de preços não são operações contratadas, reservas financeiras ou execução de hedge.
+
+Gere agora um PDF em português, com título “Soja - Composição de preços” e nome Soja_Composicao_Preco.pdf. Reúna Paranaguá(PR) primeiro e Santos(SP) depois, em páginas separadas dentro do mesmo arquivo. Quero o relatório de mercado, com dados e gráficos, não apenas um guia explicativo. Não insira meus dados pessoais, preço-alvo, recomendação individual de entrada/saída ou posição inventada. Crédito discreto da metodologia: “SATOSHISOYBR · Criado por Anarchiudi”. Entregue o PDF nesta conversa, sem enviar a terceiros nem publicar minha cópia.
+
+Depois da primeira edição, se minha conta permitir tarefas recorrentes com as ferramentas necessárias para pesquisar e gerar arquivos, configure uma rotina diária às 12h de Brasília. Antes de criar, verifique se já existe uma rotina equivalente nesta conta: reutilize-a quando estiver claramente identificada, sem boletins duplicados. Não diga que a rotina está ativa sem confirmação do agendamento e horário. Se não for possível gerar PDFs no modo agendado, explique a limitação concreta e entregue a edição pontual disponível. Um texto colado sozinho não comprova que uma rotina foi criada. Faça um teste da geração do arquivo; pesquisa e criação de PDF dependem dos recursos disponíveis na conta. Não presuma acesso a arquivos de outro usuário ou desta conversa original.
+
+BASE E CORTE
+Projeto público: https://satoshisoybr.github.io/
+Código-fonte: https://github.com/satoshisoybr/satoshisoybr.github.io
+Checkpoint público: https://satoshisoybr.github.io/data/state.json
+Resultados de referência: https://satoshisoybr.github.io/data/report.json
+Execuções públicas: https://github.com/satoshisoybr/satoshisoybr.github.io/actions
+A agenda prevista no workflow público é de segunda a sexta, às 12h de Brasília. Não afirme que essa rotina está ativa apenas por existir uma configuração: verifique as execuções na aba Actions e as datas efetivas dos dados. Essa publicação é independente da rotina pessoal de relatório solicitada acima.
+Esses arquivos podem estar defasados: leia as datas e nunca chame uma captura antiga de nova consulta. Recupere primeiro a última base durável que eu possua e só acrescente novas observações ou correções documentadas. Preserve os originais e revisões fora da janela. Se usar o checkpoint público como início, preserve suas fontes e identifique o que ainda não foi revalidado. Consulte componentes comuns apenas uma vez por série/data/contrato e reutilize-os entre praças. Não publique nem altere o site/repositório como consequência deste pedido de relatório.
+
+Use os últimos fechamentos completos publicados até a execução. No início: “Edição — dados disponíveis até [data/hora Brasília]” e “Último fechamento por série: [datas]”. Cada observação conserva data efetiva, unidade, moeda, fonte, horário de consulta e publicação quando conhecido, contrato/embarque, status e evidência recuperável. Ausências e dependências ausentes ficam N/D; nunca invente nem interpole. Em feriados e fins de semana: “sem nova cotação”, mantendo a data real. Chicago pode negociar sem haver nova PTAX brasileira: preserve USD, sem compor datas diferentes. Intradiário, se incluído, em quadro separado com hora e contrato.
+
+COMPOSIÇÃO — 30 DIAS CORRIDOS, UMA LINHA POR DIA, SEM DATAS FUTURAS
+Cabeçalho por praça: “Soja — [praça] | 1 saca = 60 kg | 1 bushel de soja = 60 lb ≈ 27,2155 kg | 1 saca ≈ 2,20462 bushels”. Destaque as duas últimas datas físicas observadas. Mantenha as colunas tradicionais, SEM substituir dólar por Bitcoin:
+Data; PTAX venda R$/US$; Chicago R$/sc (US$/bu); prêmio de exportação R$/sc (US$/bu com sinal); SOMA R$/sc; físico R$/sc (equivalente US$/bu); residual físico−SOMA R$/sc; coluna adicional Bitcoin do físico em sats/sc (BTC/sc).
+
+Chicago R$/sc = Chicago US$/bu × PTAX venda × 2,20462.
+Prêmio R$/sc = prêmio US$/bu × PTAX venda × 2,20462.
+Se origem estiver em cents/bu, divida por 100 antes. Dólar é multiplicador, não parcela somada. Use Decimal e ROUND_HALF_UP. Preserve valores originais completos; apresente SOMA como as duas parcelas individualmente arredondadas a centavos. Residual usa essa SOMA. Físico US$/bu = físico R$/sc ÷ PTAX ÷ 2,20462. Explique possível diferença R$0,01 versus cálculo sem arredondamento intermediário. Mostre: “Chicago R$X/sc + prêmio R$Y/sc = R$Z/sc; dólar R$D/US$”. Residual não é frete/despesa identificado. Sem líquido na fazenda inventado.
+
+PARANAGUÁ: prefira físico CEPEA/ESALQ da própria praça, preservando condição comercial, e prêmio Paranaguá com embarque identificado. Não substitua por Paraná estadual ou outro porto. Prefira BCB, CME, CEPEA, B3 e publicadores agrícolas reconhecidos. Confirme o último dia de negociação e o sucessor CBOT antes de rolar. Preserve cada série separadamente; não calcule retorno atravessando contratos. Não mantenha contrato vencido como referência atual. Só some componentes da mesma data e sem incompatibilidade comercial constatada. Base do prêmio não confirmada: “estimativa indicativa, base do prêmio não confirmada”; incompatibilidade constatada: SOMA N/D.
+
+SANTOS: físico FOB e prêmio spot GrãoDireto/Grainsights publicados pelo TheAgriBiz:
+https://www.theagribiz.com/wp-content/cotacoes/dados.json
+https://www.theagribiz.com/wp-content/cotacoes/faixa-v2.html
+FOB Santos e Prêmio Spot Santos são CENTAVOS de USD/bushel. A data de cada item prevalece sobre gerado_em; conserve a referência ao dia anterior informada pelo fornecedor. O prêmio é publicado e calculado a partir do índice físico, não uma oferta independente. Base CBOT/horário e embarque não confirmados não recebem mês inventado. Sem prêmio publicado: N/D. Nunca substitua por SOY−SJC, médias semanais ou dados de outro porto. Agrolink municipal pode ser série secundária separada, sem substituir o índice FOB.
+
+BITCOIN E GRÁFICOS
+Prefira BTC/BRL Bipa verificado; se não houver, use BTCBRL spot Binance e identifique a fonte por data. Não chame Binance de Bipa nem USDT de USD. Para Binance, somente candles 1d encerrados com timeZone=-3, nunca o candle corrente. Guarde horário e natureza da referência. Sem BTC compatível na data, coluna N/D.
+sats/sc = físico R$/sc ÷ BTC/BRL × 100.000.000.
+sats/US$ = PTAX ÷ BTC/BRL × 100.000.000.
+Centésimos de sat são precisão estatística, não unidade de liquidação on-chain. Os horários de BTC e PTAX podem diferir; comparação diária é indicativa.
+Inclua gráficos BTC/BRL; Bitcoin e dólar em base100 na primeira data comum por fornecedor; soja em sats e USD em base100 por praça; e confronto por intervalo. Não conecte lacunas como observações novas nem calcule retorno atravessando troca de fornecedor.
+Confronto: comece cada intervalo com o MESMO N em reais. Quantidade BTC=N/BTC0; USD=N/PTAX0. Compare os valores finais em reais. Resultado teórico comprado BTC/vendido USD=N×(rBTC−rUSD). Mostre início, fim, dias corridos, maior variação e sinal. Use N=R$1.000 como referência padronizada; prêmio de 1 saca ou receita física podem ser alternativas positivas publicadas da data inicial. Prêmio é parcela do preço, não aplicação com rendimento. Não some barras reiniciadas como P&L contínuo. Sem custos/financiamento, informe isso. Não chame a comparação de eficácia de hedge da soja, oferta ou oportunidade garantida.
+
+FUTUROS E OPÇÕES — QUADROS SEPARADOS
+SJC: 450 sacas, US$/sc; SOY:34 t≈566,67 sacas, US$/t, referência FOB Santos Platts. Para SOY: R$/sc=US$/t×0,06×PTAX. Preserve ajustes originais em USD e acrescente referência BRL e Bitcoin, ticker, mês/data, volume, ofertas e variação quando disponíveis. N/D não é zero; ajuste não é oferta. SOY para450sc é proporção, não um contrato.
+Posição vendida hipotética SJC: fluxo USD=−(ajuste atual−anterior)×450×contratos. Sem entrada fornecida, compare ajustes, sem inventar preço de operação. Câmbio B3 ausente: caixa efetivo BRL N/D; estimativa PTAX separada. Não use diferença entre níveis convertidos por PTAX distintas para replicar ajuste. Negativo=aportar; positivo=receber; ajuste não é margem. Exemplos de100/200SJC, se usados, são45.000/90.000sacas, não posições reais ou execução garantida.
+Resumo cinco pregões exige seis fechamentos homogêneos; variação entre pontas, sem somar níveis/percentuais. Saldo dos cinco ajustes é outra conta e requer os cinco fluxos e câmbio aplicável completos. Sem dados: N/D ou período parcial identificado.
+Duas puts SJC para450sc, mesmo vencimento disponível com liquidez mais próximo de90dias: exercício próximo do futuro e aproximadamenteR$5/sc abaixo. Verifique instrumento e exercício listado. Custo de compra requer ask público com data/hora, moeda e fonte. Sem ask verificável: “não disponível — requer cotação”. Ajuste, último negócio e preço teórico não são ask. Não use R$2 ou volatilidade hipotética como cotação. Prêmio opçãoUSD/sc×câmbio=R$/sc; prêmio arredondado a centavos×450=desembolso. Tarifas somente comprovadas.
+
+FRETE, NOTÍCIAS E ENTREGA
+Frete regional apenas com origem, destino, mês, fonte e unidade. R$/t×0,06=R$/sc. Média simples só de rotas compatíveis, com N, faixa, cobertura parcial e sem peso inventado. Exemplo de custo pessoal fica separado da composição histórica, com hipóteses e defasagens explícitas. Não interprete residual como frete.
+No máximo duas notícias globais novas verificadas com data e link; pesquisar fatores relevantes Brasil/EUA/China/outros mercados sem atribuir causalidade de preços sem evidência. Sem novidade verificada, diga isso com corte e data.
+PDF paisagem, branco, verde-escuro nos cabeçalhos e alternância verde muito claro; números alinhados à direita, fonte legível, mais páginas em vez de encolher. Explique Chicago, PTAX, prêmio, residual, opção e a diferença entre físico, futuro e conversão em BTC. Inclua base JSON/CSV durável ou incorporada ao PDF com fontes, datas, status, revisões e resultado das verificações. Confira conversões, SOMA, residual, sinais e percentuais programaticamente e revise o PDF renderizado. Não publique derivado que falhe. Preserve versões anteriores. Entregue UMA mensagem curta com UM PDF combinado, período, últimas datas, fontes e limitações materiais. Sem ordens, envios externos ou outros agendamentos.

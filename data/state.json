@@ -1,0 +1,4595 @@
+{
+  "schema": 1,
+  "updated_at": "2026-11-24T15:24:25.782230-03:00",
+  "markets": {
+    "Paranaguá": [
+      {
+        "date": "2026-09-01",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-01",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-01",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-09-01",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-01",
+            "url": "https://compare.aegro.com.br/conteudo/relatorios/boletim-safra-2026-09-07",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.157",
+        "cbot": "13.1775",
+        "premium": "1.7",
+        "physical_brl_raw": "161.14"
+      },
+      {
+        "date": "2026-09-02",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-02",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-02",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-09-02",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-02",
+            "url": "https://compare.aegro.com.br/conteudo/relatorios/boletim-safra-2026-09-07",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1273",
+        "cbot": "13.1025",
+        "premium": "1.7",
+        "physical_brl_raw": "160.99"
+      },
+      {
+        "date": "2026-09-03",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-03",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-03",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-09-03",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-03",
+            "url": "https://compare.aegro.com.br/conteudo/relatorios/boletim-safra-2026-09-07",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0962",
+        "cbot": "13.1625",
+        "premium": "1.7",
+        "physical_brl_raw": "160.14"
+      },
+      {
+        "date": "2026-09-04",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-04",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-04",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-09-04",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-04",
+            "url": "https://compare.aegro.com.br/conteudo/relatorios/boletim-safra-2026-09-07",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1253",
+        "cbot": "13.0975",
+        "premium": "1.7",
+        "physical_brl_raw": "160.87"
+      },
+      {
+        "date": "2026-09-08",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-08",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-08",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-09-08",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-08",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-segunda-feira-14-pagr266526",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0856",
+        "cbot": "13.1625",
+        "premium": "1.7",
+        "physical_brl_raw": "160.46"
+      },
+      {
+        "date": "2026-09-09",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-09",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-09",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-09-09",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-09",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-segunda-feira-14-pagr266526",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0979",
+        "cbot": "13.095",
+        "premium": "1.7",
+        "physical_brl_raw": "160.12"
+      },
+      {
+        "date": "2026-09-10",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-10",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-10",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-09-10",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-10",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-segunda-feira-14-pagr266526",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1149",
+        "cbot": "13.3225",
+        "premium": "1.7",
+        "physical_brl_raw": "161.73"
+      },
+      {
+        "date": "2026-09-11",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-11",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-11",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-segunda-feira-14-pagr266526",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0918",
+        "physical_brl_raw": "160.55"
+      },
+      {
+        "date": "2026-09-14",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-14",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-14",
+            "url": "https://inscricao.brasil61.com/n/soja-e-trigo-confira-cotacoes-para-esta-sexta-feira-16-pagr266537",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1696",
+        "physical_brl_raw": "160.44"
+      },
+      {
+        "date": "2026-09-15",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-15",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-15",
+            "url": "https://inscricao.brasil61.com/n/soja-e-trigo-confira-cotacoes-para-esta-sexta-feira-16-pagr266537",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.149",
+        "physical_brl_raw": "160.59"
+      },
+      {
+        "date": "2026-09-16",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-16",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-16",
+            "url": "https://inscricao.brasil61.com/n/soja-e-trigo-confira-cotacoes-para-esta-sexta-feira-16-pagr266537",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1527",
+        "physical_brl_raw": "161.88"
+      },
+      {
+        "date": "2026-09-17",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-17",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-17",
+            "url": "https://inscricao.brasil61.com/n/soja-e-trigo-confira-cotacoes-para-esta-sexta-feira-16-pagr266537",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1521",
+        "physical_brl_raw": "162.02"
+      },
+      {
+        "date": "2026-09-18",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-18",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-18",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-25-pagr266553",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1575",
+        "physical_brl_raw": "161.89"
+      },
+      {
+        "date": "2026-09-21",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-21",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-21",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-25-pagr266553",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1117",
+        "physical_brl_raw": "161.52"
+      },
+      {
+        "date": "2026-09-22",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-22",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-22",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-25-pagr266553",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1161",
+        "physical_brl_raw": "161.93"
+      },
+      {
+        "date": "2026-09-23",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-23",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-23",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-25-pagr266553",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1414",
+        "physical_brl_raw": "161.65"
+      },
+      {
+        "date": "2026-09-24",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-24",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-24",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-25-pagr266553",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1795",
+        "physical_brl_raw": "161.84"
+      },
+      {
+        "date": "2026-09-25",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-25",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-25",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-quinta-feira-1-pagr266565",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1991",
+        "physical_brl_raw": "161"
+      },
+      {
+        "date": "2026-09-28",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-28",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-28",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-quinta-feira-1-pagr266565",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.2132",
+        "physical_brl_raw": "160.43"
+      },
+      {
+        "date": "2026-09-29",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-29",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-29",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-quinta-feira-1-pagr266565",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.2204",
+        "physical_brl_raw": "161.27"
+      },
+      {
+        "date": "2026-09-30",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-09-30",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-09-30",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-quinta-feira-1-pagr266565",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.1809",
+        "physical_brl_raw": "161.56"
+      },
+      {
+        "date": "2026-10-01",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-01",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-01",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-01",
+            "url": "https://www.brasilmeiaum.com.br/n/soja-recua-no-interior-e-no-litoral-do-parana-nesta-sexta-feira-2-pagr266567",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.2079",
+        "cbot": "12.84",
+        "physical_brl_raw": "160.9"
+      },
+      {
+        "date": "2026-10-02",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-02",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-02",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-02",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-9-pagr266580",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.2238",
+        "cbot": "12.7825",
+        "physical_brl_raw": "159.94"
+      },
+      {
+        "date": "2026-10-05",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-05",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-05",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-05",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-9-pagr266580",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "4.9859",
+        "cbot": "12.8075",
+        "physical_brl_raw": "158.09"
+      },
+      {
+        "date": "2026-10-06",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-06",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-06",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-06",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-9-pagr266580",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "4.9698",
+        "cbot": "13.03",
+        "physical_brl_raw": "155.67"
+      },
+      {
+        "date": "2026-10-07",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-07",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-07",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-07",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-9-pagr266580",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "4.9935",
+        "cbot": "12.975",
+        "physical_brl_raw": "153.9"
+      },
+      {
+        "date": "2026-10-08",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-08",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-08",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-08",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-9-pagr266580",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0119",
+        "cbot": "12.875",
+        "physical_brl_raw": "154.91"
+      },
+      {
+        "date": "2026-10-09",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-09",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-09",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-09",
+            "url": "https://inscricao.brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-16-pagr266592",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "4.9892",
+        "cbot": "12.92",
+        "physical_brl_raw": "154.75"
+      },
+      {
+        "date": "2026-10-11",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada"
+      },
+      {
+        "date": "2026-10-12",
+        "port": "Paranaguá",
+        "sources": {
+          "cbot": {
+            "date": "2026-10-12",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "cbot": "12.8775"
+      },
+      {
+        "date": "2026-10-13",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-13",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-13",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-13",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-13",
+            "url": "https://inscricao.brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-16-pagr266592",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0096",
+        "cbot": "12.8375",
+        "premium": "1.55",
+        "physical_brl_raw": "154.15"
+      },
+      {
+        "date": "2026-10-14",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-14",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-14",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-14",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-14",
+            "url": "https://inscricao.brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-16-pagr266592",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0441",
+        "cbot": "12.7725",
+        "premium": "1.55",
+        "physical_brl_raw": "154.29"
+      },
+      {
+        "date": "2026-10-15",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-15",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-15",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-15",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-15",
+            "url": "https://inscricao.brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-sexta-feira-16-pagr266592",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0521",
+        "cbot": "12.63",
+        "premium": "1.55",
+        "physical_brl_raw": "154.7"
+      },
+      {
+        "date": "2026-10-16",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-16",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-16",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-16",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-16",
+            "url": "https://opresenterural.com.br/soja-acumula-queda-de-ate-43-em-outubro/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0826",
+        "cbot": "12.6125",
+        "premium": "1.55",
+        "physical_brl_raw": "154.61"
+      },
+      {
+        "date": "2026-10-17",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada"
+      },
+      {
+        "date": "2026-10-18",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      },
+      {
+        "date": "2026-10-19",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-19",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-19",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-19",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-19",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-segunda-feira-26-pagr266607",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0564",
+        "cbot": "12.535",
+        "premium": "1.55",
+        "physical_brl_raw": "154.24"
+      },
+      {
+        "date": "2026-10-20",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-20",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-20",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-20",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-segunda-feira-26-pagr266607",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.014",
+        "cbot": "12.4825",
+        "physical_brl_raw": "153.4"
+      },
+      {
+        "date": "2026-10-21",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-21",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-21",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-21",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-segunda-feira-26-pagr266607",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0277",
+        "cbot": "12.4525",
+        "physical_brl_raw": "152.13"
+      },
+      {
+        "date": "2026-10-22",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-22",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-22",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-22",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-22",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-segunda-feira-26-pagr266607",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0383",
+        "cbot": "12.53",
+        "premium": "1.55",
+        "physical_brl_raw": "151.92"
+      },
+      {
+        "date": "2026-10-23",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-23",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-23",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-23",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-23",
+            "url": "https://brasil61.com/n/soja-e-trigo-confira-os-precos-dos-graos-para-esta-segunda-feira-26-pagr266607",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.0377",
+        "cbot": "12.565",
+        "premium": "1.55",
+        "physical_brl_raw": "152.41"
+      },
+      {
+        "date": "2026-10-24",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      },
+      {
+        "date": "2026-10-25",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      },
+      {
+        "date": "2026-10-26",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-26",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-26",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-26",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-26",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.5007",
+        "cbot": "12.4125",
+        "premium": "1.55",
+        "physical_brl_raw": "155.55"
+      },
+      {
+        "date": "2026-10-27",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-27",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-27",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-27",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-27",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.3346",
+        "cbot": "12.2925",
+        "premium": "1.4",
+        "physical_brl_raw": "157.41"
+      },
+      {
+        "date": "2026-10-28",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-28",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-28",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-28",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-28",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.342",
+        "cbot": "12.245",
+        "premium": "1.4",
+        "physical_brl_raw": "157.42"
+      },
+      {
+        "date": "2026-10-29",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-29",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-29",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-29",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-29",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.3744",
+        "cbot": "12.1975",
+        "premium": "1.4",
+        "physical_brl_raw": "158.28"
+      },
+      {
+        "date": "2026-10-30",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-10-30",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-30",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-10-30",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-10-30",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.4212",
+        "cbot": "12.2225",
+        "premium": "1.4",
+        "physical_brl_raw": "158.88"
+      },
+      {
+        "date": "2026-10-31",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      },
+      {
+        "date": "2026-11-01",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      },
+      {
+        "date": "2026-11-02",
+        "port": "Paranaguá",
+        "sources": {
+          "cbot": {
+            "date": "2026-11-02",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "cbot": "12.0475"
+      },
+      {
+        "date": "2026-11-03",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-03",
+            "url": "https://oinvestimentocerto.com/dolar-novembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-03",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-03",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-03",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.4935",
+        "cbot": "12.03",
+        "premium": "1.6",
+        "physical_brl_raw": "159.28"
+      },
+      {
+        "date": "2026-11-04",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-04",
+            "url": "https://oinvestimentocerto.com/dolar-novembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-04",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-04",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-04",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.4778",
+        "cbot": "11.9325",
+        "premium": "1.6",
+        "physical_brl_raw": "158.17"
+      },
+      {
+        "date": "2026-11-05",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-05",
+            "url": "https://oinvestimentocerto.com/dolar-novembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-05",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-05",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-05",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.4621",
+        "cbot": "11.81",
+        "premium": "1.6",
+        "physical_brl_raw": "158.53"
+      },
+      {
+        "date": "2026-11-06",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-06",
+            "url": "https://oinvestimentocerto.com/dolar-novembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-06",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-06",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-06",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.5013",
+        "cbot": "11.89",
+        "premium": "1.6",
+        "physical_brl_raw": "158.52"
+      },
+      {
+        "date": "2026-11-07",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      },
+      {
+        "date": "2026-11-08",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      },
+      {
+        "date": "2026-11-09",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-09",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-09",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-09",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-09",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.5146",
+        "cbot": "11.8225",
+        "premium": "1.60",
+        "physical_brl_raw": "158.62"
+      },
+      {
+        "date": "2026-11-10",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-10",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-10",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-10",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-10",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.5840",
+        "cbot": "12.2450",
+        "premium": "1.60",
+        "physical_brl_raw": "159.87"
+      },
+      {
+        "date": "2026-11-11",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-11",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-11",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-11",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-11",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.5606",
+        "cbot": "12.2900",
+        "premium": "1.60",
+        "physical_brl_raw": "160.41"
+      },
+      {
+        "date": "2026-11-12",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-12",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-12",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-12",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-12",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.6143",
+        "cbot": "12.2700",
+        "premium": "1.60",
+        "physical_brl_raw": "162.31"
+      },
+      {
+        "date": "2026-11-13",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-13",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-13",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-13",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-13",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "fx": "5.6518",
+        "cbot": "12.4300",
+        "premium": "1.60",
+        "physical_brl_raw": "164.49"
+      },
+      {
+        "date": "2026-11-14",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      },
+      {
+        "date": "2026-11-15",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      },
+      {
+        "date": "2026-11-16",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-16",
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-16-2026'&$format=json",
+            "published_at": "2026-11-16T13:06:32.509132-03:00",
+            "consulted_at": "2026-11-16T22:05:00.137032-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-16",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-16T22:05:00.137032-03:00"
+          },
+          "premium": {
+            "date": "2026-11-16",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-16T22:05:00.137032-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-16",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-16T22:05:00.137032-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "embarque novembro/2026; base CBOT não confirmada",
+        "fx": "5.73240",
+        "cbot": "12.2900",
+        "premium": "1.60",
+        "physical_brl_raw": "166.07"
+      },
+      {
+        "date": "2026-11-17",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-17",
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-17-2026'&$format=json",
+            "published_at": "2026-11-17 13:07:26.01516 Brasília",
+            "consulted_at": "2026-11-18T13:30:38.557237-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-17",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-18T13:30:38.557237-03:00"
+          },
+          "premium": {
+            "date": "2026-11-17",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-18T13:30:38.557237-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-17",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-18T13:30:38.557237-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "embarque novembro/2026; base CBOT não confirmada",
+        "fx": "5.78510",
+        "cbot": "12.2550",
+        "premium": "1.60",
+        "physical_brl_raw": "167.43"
+      },
+      {
+        "date": "2026-11-18",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-18",
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-18-2026'&$format=json",
+            "published_at": "2026-11-18 13:08:44.271245 Brasília",
+            "consulted_at": "2026-11-18T13:31:38.075959-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-18",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-18T13:31:38.075959-03:00"
+          },
+          "premium": {
+            "date": "2026-11-18",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-18T13:31:38.075959-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-18",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-18T13:31:38.075959-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "embarque novembro/2026; base CBOT não confirmada",
+        "fx": "5.81020",
+        "cbot": "12.1675",
+        "premium": "1.60",
+        "physical_brl_raw": "167.94"
+      },
+      {
+        "date": "2026-11-19",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-19",
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-19-2026'&$format=json",
+            "published_at": "2026-11-19 13:04:18.325373 Brasília",
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-19",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-19",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-19",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "embarque novembro/2026; base CBOT não confirmada",
+        "fx": "5.88890",
+        "cbot": "12.0750",
+        "premium": "1.60",
+        "physical_brl_raw": "168.69"
+      },
+      {
+        "date": "2026-11-20",
+        "port": "Paranaguá",
+        "sources": {
+          "cbot": {
+            "date": "2026-11-20",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada",
+        "cbot": "12.2075"
+      },
+      {
+        "date": "2026-11-21",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSF27",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      },
+      {
+        "date": "2026-11-22",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSF27",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      },
+      {
+        "date": "2026-11-23",
+        "port": "Paranaguá",
+        "sources": {
+          "fx": {
+            "date": "2026-11-23",
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-23-2026'&$format=json",
+            "published_at": "2026-11-23 13:06:23.798289 Brasília",
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-23",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-23",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/premio-soja-paranagua-pr",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_brl_raw": {
+            "date": "2026-11-23",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-indicador-cepea-esalq-porto-paranagua",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "embarque novembro2026;baseCBOT não confirmada",
+        "fx": "5.9708",
+        "cbot": "12.2875",
+        "premium": "1.60",
+        "physical_brl_raw": "170.74"
+      },
+      {
+        "date": "2026-11-24",
+        "port": "Paranaguá",
+        "sources": {},
+        "contract": "ZSF27",
+        "premium_condition": "embarque nov/26; base CBOT não confirmada"
+      }
+    ],
+    "Santos": [
+      {
+        "date": "2026-09-01",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-01",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-01",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.157",
+        "cbot": "13.1775"
+      },
+      {
+        "date": "2026-09-02",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-02",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-02",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1273",
+        "cbot": "13.1025"
+      },
+      {
+        "date": "2026-09-03",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-03",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-03",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.0962",
+        "cbot": "13.1625"
+      },
+      {
+        "date": "2026-09-04",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-04",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-04",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1253",
+        "cbot": "13.0975"
+      },
+      {
+        "date": "2026-09-08",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-08",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-08",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.0856",
+        "cbot": "13.1625"
+      },
+      {
+        "date": "2026-09-09",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-09",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-09",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.0979",
+        "cbot": "13.095"
+      },
+      {
+        "date": "2026-09-10",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-10",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-09-10",
+            "url": "https://beta.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1149",
+        "cbot": "13.3225"
+      },
+      {
+        "date": "2026-09-11",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-11",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.0918"
+      },
+      {
+        "date": "2026-09-14",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-14",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1696"
+      },
+      {
+        "date": "2026-09-15",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-15",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.149"
+      },
+      {
+        "date": "2026-09-16",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-16",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1527"
+      },
+      {
+        "date": "2026-09-17",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-17",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1521"
+      },
+      {
+        "date": "2026-09-18",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-18",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1575"
+      },
+      {
+        "date": "2026-09-21",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-21",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1117"
+      },
+      {
+        "date": "2026-09-22",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-22",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1161"
+      },
+      {
+        "date": "2026-09-23",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-23",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1414"
+      },
+      {
+        "date": "2026-09-24",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-24",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1795"
+      },
+      {
+        "date": "2026-09-25",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-25",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1991"
+      },
+      {
+        "date": "2026-09-28",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-28",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.2132"
+      },
+      {
+        "date": "2026-09-29",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-29",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.2204"
+      },
+      {
+        "date": "2026-09-30",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-09-30",
+            "url": "https://oinvestimentocerto.com/dolar-setembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.1809"
+      },
+      {
+        "date": "2026-10-01",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-01",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-01",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.2079",
+        "cbot": "12.84"
+      },
+      {
+        "date": "2026-10-02",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-02",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-02",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.2238",
+        "cbot": "12.7825"
+      },
+      {
+        "date": "2026-10-05",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-05",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-05",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "4.9859",
+        "cbot": "12.8075"
+      },
+      {
+        "date": "2026-10-06",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-06",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-06",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "4.9698",
+        "cbot": "13.03"
+      },
+      {
+        "date": "2026-10-07",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-07",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-07",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "4.9935",
+        "cbot": "12.975"
+      },
+      {
+        "date": "2026-10-08",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-08",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-08",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.0119",
+        "cbot": "12.875"
+      },
+      {
+        "date": "2026-10-09",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-09",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-09",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "4.9892",
+        "cbot": "12.92"
+      },
+      {
+        "date": "2026-10-11",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada"
+      },
+      {
+        "date": "2026-10-12",
+        "port": "Santos",
+        "sources": {
+          "cbot": {
+            "date": "2026-10-12",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "cbot": "12.8775"
+      },
+      {
+        "date": "2026-10-13",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-13",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-13",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.0096",
+        "cbot": "12.8375"
+      },
+      {
+        "date": "2026-10-14",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-14",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-14",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.0441",
+        "cbot": "12.7725"
+      },
+      {
+        "date": "2026-10-15",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-15",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-15",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.0521",
+        "cbot": "12.63"
+      },
+      {
+        "date": "2026-10-16",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-16",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-16",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada",
+        "fx": "5.0826",
+        "cbot": "12.6125"
+      },
+      {
+        "date": "2026-10-17",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "base CBOT não confirmada"
+      },
+      {
+        "date": "2026-10-18",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      },
+      {
+        "date": "2026-10-19",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-19",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-19",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.0564",
+        "cbot": "12.535"
+      },
+      {
+        "date": "2026-10-20",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-20",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-20",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.014",
+        "cbot": "12.4825"
+      },
+      {
+        "date": "2026-10-21",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-21",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-21",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.0277",
+        "cbot": "12.4525"
+      },
+      {
+        "date": "2026-10-22",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-22",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-22",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.0383",
+        "cbot": "12.53"
+      },
+      {
+        "date": "2026-10-23",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-23",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-23",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.0377",
+        "cbot": "12.565"
+      },
+      {
+        "date": "2026-10-24",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      },
+      {
+        "date": "2026-10-25",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      },
+      {
+        "date": "2026-10-26",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-26",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-26",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.5007",
+        "cbot": "12.4125"
+      },
+      {
+        "date": "2026-10-27",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-27",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-27",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.3346",
+        "cbot": "12.2925"
+      },
+      {
+        "date": "2026-10-28",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-28",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-28",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.342",
+        "cbot": "12.245"
+      },
+      {
+        "date": "2026-10-29",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-29",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-29",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.3744",
+        "cbot": "12.1975"
+      },
+      {
+        "date": "2026-10-30",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-10-30",
+            "url": "https://oinvestimentocerto.com/dolar-outubro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-10-30",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.4212",
+        "cbot": "12.2225"
+      },
+      {
+        "date": "2026-10-31",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      },
+      {
+        "date": "2026-11-01",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      },
+      {
+        "date": "2026-11-02",
+        "port": "Santos",
+        "sources": {
+          "cbot": {
+            "date": "2026-11-02",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "cbot": "12.0475"
+      },
+      {
+        "date": "2026-11-03",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-03",
+            "url": "https://oinvestimentocerto.com/dolar-novembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-03",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.4935",
+        "cbot": "12.03"
+      },
+      {
+        "date": "2026-11-04",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-04",
+            "url": "https://oinvestimentocerto.com/dolar-novembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-04",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.4778",
+        "cbot": "11.9325"
+      },
+      {
+        "date": "2026-11-05",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-05",
+            "url": "https://oinvestimentocerto.com/dolar-novembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-05",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.4621",
+        "cbot": "11.81"
+      },
+      {
+        "date": "2026-11-06",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-06",
+            "url": "https://oinvestimentocerto.com/dolar-novembro-2026/",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-06",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_usd_raw": {
+            "date": "2026-11-06",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-06",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.5013",
+        "cbot": "11.89",
+        "premium": "1.3875445803569346",
+        "physical_usd_raw": "13.331544580356936"
+      },
+      {
+        "date": "2026-11-07",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      },
+      {
+        "date": "2026-11-08",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      },
+      {
+        "date": "2026-11-09",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-09",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-09",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_usd_raw": {
+            "date": "2026-11-09",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-09",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.5146",
+        "cbot": "11.8225",
+        "premium": "1.6367901466020817",
+        "physical_usd_raw": "13.611790146602082"
+      },
+      {
+        "date": "2026-11-10",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-10",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-10",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_usd_raw": {
+            "date": "2026-11-10",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-10",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.5840",
+        "cbot": "12.2450",
+        "premium": "1.7000717140990741",
+        "physical_usd_raw": "13.652571714099074"
+      },
+      {
+        "date": "2026-11-11",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-11",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-11",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_usd_raw": {
+            "date": "2026-11-11",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-11",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.5606",
+        "cbot": "12.2900",
+        "premium": "1.6322799060752072",
+        "physical_usd_raw": "13.874779906075207"
+      },
+      {
+        "date": "2026-11-12",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-12",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-12",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_usd_raw": {
+            "date": "2026-11-12",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-12",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.6143",
+        "cbot": "12.2700",
+        "premium": "1.286995220401095",
+        "physical_usd_raw": "13.561995220401095"
+      },
+      {
+        "date": "2026-11-13",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-13",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-13",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "physical_usd_raw": {
+            "date": "2026-11-13",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "premium": {
+            "date": "2026-11-13",
+            "url": "https://www.theagribiz.com/wp-content/cotacoes/dados.json",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.6518",
+        "cbot": "12.4300",
+        "premium": "1.5622841245639643",
+        "physical_usd_raw": "13.884784124563964"
+      },
+      {
+        "date": "2026-11-14",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      },
+      {
+        "date": "2026-11-15",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSX26",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      },
+      {
+        "date": "2026-11-16",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-16",
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-16-2026'&$format=json",
+            "published_at": "2026-11-16T13:06:32.509132-03:00",
+            "consulted_at": "2026-11-16T22:05:00.137032-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-16",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-16T22:05:00.137032-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.73240",
+        "cbot": "12.2900"
+      },
+      {
+        "date": "2026-11-17",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-17",
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-17-2026'&$format=json",
+            "published_at": "2026-11-17 13:07:26.01516 Brasília",
+            "consulted_at": "2026-11-18T13:30:38.557237-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-17",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-18T13:30:38.557237-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.78510",
+        "cbot": "12.2550"
+      },
+      {
+        "date": "2026-11-18",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-18",
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-18-2026'&$format=json",
+            "published_at": "2026-11-18 13:08:44.271245 Brasília",
+            "consulted_at": "2026-11-18T13:31:38.075959-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-18",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-18T13:31:38.075959-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.81020",
+        "cbot": "12.1675"
+      },
+      {
+        "date": "2026-11-19",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-19",
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-19-2026'&$format=json",
+            "published_at": "2026-11-19 13:04:18.325373 Brasília",
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-19",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.88890",
+        "cbot": "12.0750"
+      },
+      {
+        "date": "2026-11-20",
+        "port": "Santos",
+        "sources": {
+          "cbot": {
+            "date": "2026-11-20",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "cbot": "12.2075"
+      },
+      {
+        "date": "2026-11-21",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSF27",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      },
+      {
+        "date": "2026-11-22",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSF27",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      },
+      {
+        "date": "2026-11-23",
+        "port": "Santos",
+        "sources": {
+          "fx": {
+            "date": "2026-11-23",
+            "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='11-23-2026'&$format=json",
+            "published_at": "2026-11-23 13:06:23.798289 Brasília",
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          },
+          "cbot": {
+            "date": "2026-11-23",
+            "url": "https://www.noticiasagricolas.com.br/cotacoes/soja/soja-bolsa-de-chicago-cme-group",
+            "published_at": null,
+            "consulted_at": "2026-11-24T12:07:34.463560-03:00"
+          }
+        },
+        "contract": "ZSF27",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados",
+        "fx": "5.9708",
+        "cbot": "12.2875"
+      },
+      {
+        "date": "2026-11-24",
+        "port": "Santos",
+        "sources": {},
+        "contract": "ZSF27",
+        "premium_condition": "spot Santos; embarque/base CBOT não confirmados"
+      }
+    ]
+  },
+  "b3": [
+    {
+      "date": "2026-10-29",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "27.414",
+      "previous_settlement": "27.4691",
+      "unit": "USD/sc60kg",
+      "volume": "76",
+      "number_of_trades": "12",
+      "bid": "27.16",
+      "ask": "27.96",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261029.zip"
+    },
+    {
+      "date": "2026-10-29",
+      "ticker": "SJCK27",
+      "family": "SJC",
+      "reference_month": "2027-05",
+      "settlement": "27.6179",
+      "previous_settlement": "27.6565",
+      "unit": "USD/sc60kg",
+      "volume": "63",
+      "number_of_trades": "6",
+      "bid": "27.57",
+      "ask": "27.66",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261029.zip"
+    },
+    {
+      "date": "2026-10-29",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "454.4",
+      "previous_settlement": "454.6",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261029.zip"
+    },
+    {
+      "date": "2026-10-29",
+      "ticker": "SOYK27",
+      "family": "SOY",
+      "reference_month": "2027-05",
+      "settlement": "462.2",
+      "previous_settlement": "461.8",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261029.zip"
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "27.4195",
+      "previous_settlement": "27.414",
+      "unit": "USD/sc60kg",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": "27.32",
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261030.zip"
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "SJCK27",
+      "family": "SJC",
+      "reference_month": "2027-05",
+      "settlement": "27.6345",
+      "previous_settlement": "27.6179",
+      "unit": "USD/sc60kg",
+      "volume": "64",
+      "number_of_trades": "8",
+      "bid": "27.51",
+      "ask": "27.74",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261030.zip"
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "453.8",
+      "previous_settlement": "454.4",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261030.zip"
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "SOYK27",
+      "family": "SOY",
+      "reference_month": "2027-05",
+      "settlement": "462.8",
+      "previous_settlement": "462.2",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261030.zip"
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "26.9125",
+      "previous_settlement": "27.4195",
+      "unit": "USD/sc60kg",
+      "volume": "101",
+      "number_of_trades": "11",
+      "bid": "26.9",
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261103.zip"
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "SJCK27",
+      "family": "SJC",
+      "reference_month": "2027-05",
+      "settlement": "27.1054",
+      "previous_settlement": "27.6345",
+      "unit": "USD/sc60kg",
+      "volume": "82",
+      "number_of_trades": "11",
+      "bid": "26.8",
+      "ask": "27.48",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261103.zip"
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "445.2",
+      "previous_settlement": "453.8",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261103.zip"
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "SOYK27",
+      "family": "SOY",
+      "reference_month": "2027-05",
+      "settlement": "454",
+      "previous_settlement": "462.8",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261103.zip"
+    },
+    {
+      "date": "2026-11-04",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "26.681",
+      "previous_settlement": "26.9125",
+      "unit": "USD/sc60kg",
+      "volume": "143",
+      "number_of_trades": "14",
+      "bid": "26.5",
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261104.zip"
+    },
+    {
+      "date": "2026-11-04",
+      "ticker": "SJCK27",
+      "family": "SJC",
+      "reference_month": "2027-05",
+      "settlement": "26.8904",
+      "previous_settlement": "27.1054",
+      "unit": "USD/sc60kg",
+      "volume": "75",
+      "number_of_trades": "13",
+      "bid": "25.83",
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261104.zip"
+    },
+    {
+      "date": "2026-11-04",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "442.2",
+      "previous_settlement": "445.2",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261104.zip"
+    },
+    {
+      "date": "2026-11-04",
+      "ticker": "SOYK27",
+      "family": "SOY",
+      "reference_month": "2027-05",
+      "settlement": "451",
+      "previous_settlement": "454",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261104.zip"
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "26.3724",
+      "previous_settlement": "26.681",
+      "unit": "USD/sc60kg",
+      "volume": "333",
+      "number_of_trades": "21",
+      "bid": "26.3",
+      "ask": "26.86",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261105.zip"
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "SJCK27",
+      "family": "SJC",
+      "reference_month": "2027-05",
+      "settlement": "26.5928",
+      "previous_settlement": "26.8904",
+      "unit": "USD/sc60kg",
+      "volume": "216",
+      "number_of_trades": "18",
+      "bid": "26.53",
+      "ask": "26.79",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261105.zip"
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "437.8",
+      "previous_settlement": "442.2",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261105.zip"
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "SOYK27",
+      "family": "SOY",
+      "reference_month": "2027-05",
+      "settlement": "446.2",
+      "previous_settlement": "451",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261105.zip"
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "26.4385",
+      "previous_settlement": "26.3724",
+      "unit": "USD/sc60kg",
+      "volume": "231",
+      "number_of_trades": "27",
+      "bid": "25.94",
+      "ask": "26.89",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261106.zip"
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "SJCK27",
+      "family": "SJC",
+      "reference_month": "2027-05",
+      "settlement": "26.6369",
+      "previous_settlement": "26.5928",
+      "unit": "USD/sc60kg",
+      "volume": "124",
+      "number_of_trades": "12",
+      "bid": null,
+      "ask": "26.7",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261106.zip"
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "438.8",
+      "previous_settlement": "437.8",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261106.zip"
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "SOYK27",
+      "family": "SOY",
+      "reference_month": "2027-05",
+      "settlement": "447",
+      "previous_settlement": "446.2",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261106.zip"
+    },
+    {
+      "date": "2026-11-09",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "26.3448",
+      "previous_settlement": "26.4385",
+      "unit": "USD/sc 60 kg",
+      "volume": "120",
+      "number_of_trades": "65",
+      "bid": "26.29",
+      "ask": "26.35",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261109.zip",
+      "publication_time": "não disponível"
+    },
+    {
+      "date": "2026-11-09",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "436.2",
+      "previous_settlement": "438.8",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261109.zip",
+      "publication_time": "não disponível"
+    },
+    {
+      "date": "2026-11-10",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "27.2156",
+      "previous_settlement": "26.3448",
+      "unit": "USD/sc 60 kg",
+      "volume": "849",
+      "number_of_trades": "71",
+      "bid": "27",
+      "ask": "27.26",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261110.zip",
+      "publication_time": "não disponível"
+    },
+    {
+      "date": "2026-11-10",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "446.4",
+      "previous_settlement": "436.2",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261110.zip",
+      "publication_time": "não disponível"
+    },
+    {
+      "date": "2026-11-11",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "27.2928",
+      "previous_settlement": "27.2156",
+      "unit": "USD/sc 60 kg",
+      "volume": "16",
+      "number_of_trades": "5",
+      "bid": "27.23",
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261111.zip",
+      "publication_time": "não disponível"
+    },
+    {
+      "date": "2026-11-11",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "448",
+      "previous_settlement": "446.4",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261111.zip",
+      "publication_time": "não disponível"
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "27.0062",
+      "previous_settlement": "27.2928",
+      "unit": "USD/sc 60 kg",
+      "volume": "108",
+      "number_of_trades": "14",
+      "bid": "26.9",
+      "ask": "27.19",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261112.zip",
+      "publication_time": "não disponível"
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "444.6",
+      "previous_settlement": "448",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261112.zip",
+      "publication_time": "não disponível"
+    },
+    {
+      "date": "2026-11-13",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "27.2762",
+      "previous_settlement": "27.0062",
+      "unit": "USD/sc 60 kg",
+      "volume": "279",
+      "number_of_trades": "28",
+      "bid": null,
+      "ask": "27.45",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261113.zip",
+      "publication_time": "não disponível"
+    },
+    {
+      "date": "2026-11-13",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "447.4",
+      "previous_settlement": "444.6",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261113.zip",
+      "publication_time": "não disponível"
+    },
+    {
+      "date": "2026-11-16",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "27.1825",
+      "previous_settlement": "27.2762",
+      "unit": "USD/sc 60 kg",
+      "volume": "102",
+      "number_of_trades": "14",
+      "bid": null,
+      "ask": null,
+      "last_trade": "27.11",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261116.zip",
+      "publication_time": "não disponível",
+      "consultation_recorded_at": "2026-11-16T22:05:00.137032-03:00"
+    },
+    {
+      "date": "2026-11-16",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "444.6",
+      "previous_settlement": "447.4",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "last_trade": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261116.zip",
+      "publication_time": "não disponível",
+      "consultation_recorded_at": "2026-11-16T22:05:00.137032-03:00"
+    },
+    {
+      "date": "2026-11-17",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "27.144",
+      "previous_settlement": "27.1825",
+      "unit": "USD/sc 60 kg",
+      "volume": "25",
+      "number_of_trades": "22",
+      "bid": "27.12",
+      "ask": "27.17",
+      "last_trade": "27.25",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261117.zip",
+      "publication_time": "2026-11-17T20:33:39-03:00",
+      "consultation_recorded_at": "2026-11-18T13:34:01.496599-03:00"
+    },
+    {
+      "date": "2026-11-17",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "443.6",
+      "previous_settlement": "444.6",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "last_trade": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261117.zip",
+      "publication_time": "2026-11-17T20:33:39-03:00",
+      "consultation_recorded_at": "2026-11-18T13:34:01.496599-03:00"
+    },
+    {
+      "date": "2026-11-18",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "26.9015",
+      "previous_settlement": "27.144",
+      "unit": "USD/sc 60 kg",
+      "volume": "131",
+      "number_of_trades": "37",
+      "bid": "26.86",
+      "ask": "27.29",
+      "last_trade": "26.9",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261118.zip",
+      "publication_time": "2026-11-18T20:33:22-03:00",
+      "consultation_recorded_at": "2026-11-20T12:03:43.416568-03:00"
+    },
+    {
+      "date": "2026-11-18",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "439.2",
+      "previous_settlement": "443.6",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "last_trade": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261118.zip",
+      "publication_time": "2026-11-18T20:33:22-03:00",
+      "consultation_recorded_at": "2026-11-20T12:03:43.416568-03:00"
+    },
+    {
+      "date": "2026-11-19",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "26.7361",
+      "previous_settlement": "26.9015",
+      "unit": "USD/sc 60 kg",
+      "volume": "281",
+      "number_of_trades": "35",
+      "bid": "26.71",
+      "ask": "26.77",
+      "last_trade": "26.79",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261119.zip",
+      "publication_time": "2026-11-19T20:40:32-03:00",
+      "consultation_recorded_at": "2026-11-20T12:03:43.416568-03:00"
+    },
+    {
+      "date": "2026-11-19",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "434.6",
+      "previous_settlement": "439.2",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "last_trade": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261119.zip",
+      "publication_time": "2026-11-19T20:40:32-03:00",
+      "consultation_recorded_at": "2026-11-20T12:03:43.416568-03:00"
+    },
+    {
+      "date": "2026-11-23",
+      "ticker": "SOYH27",
+      "family": "SOY",
+      "reference_month": "2027-03",
+      "settlement": "441.2",
+      "previous_settlement": "434.6",
+      "unit": "USD/t",
+      "volume": null,
+      "number_of_trades": null,
+      "bid": null,
+      "ask": null,
+      "last_trade": null,
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261123.zip",
+      "publication_time": "2026-11-23T20:36:30-03:00",
+      "consultation_recorded_at": "2026-11-24T12:05:53.892020-03:00"
+    },
+    {
+      "date": "2026-11-23",
+      "ticker": "SJCH27",
+      "family": "SJC",
+      "reference_month": "2027-03",
+      "settlement": "27.1715",
+      "previous_settlement": "26.7361",
+      "unit": "USD/sc60kg",
+      "volume": "426",
+      "number_of_trades": "38",
+      "bid": "27.12",
+      "ask": "27.18",
+      "last_trade": "27.12",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=PR261123.zip",
+      "publication_time": "2026-11-23T20:36:30-03:00",
+      "consultation_recorded_at": "2026-11-24T12:05:53.892020-03:00"
+    }
+  ],
+  "options": [
+    {
+      "ticker": "SJCH27P002725",
+      "strike": "27.25",
+      "expiration": "2027-02-19",
+      "verified_date": "2026-11-23",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=IN261123.zip"
+    },
+    {
+      "ticker": "SJCH27P002625",
+      "strike": "26.25",
+      "expiration": "2027-02-19",
+      "verified_date": "2026-11-23",
+      "source_url": "https://www.b3.com.br/pesquisapregao/download?filelist=IN261123.zip"
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-11-24",
+      "summary": "USDA:colheita de soja dos EUA chegou100% no boletim divulgado23/11.",
+      "source": "USDA via NotíciasAgrícolas",
+      "url": "https://www.noticiasagricolas.com.br/noticias/usda/431831-usda-eua-concluem-colheita-da-soja-e-trabalhos-com-milho-chegam-a-94.html",
+      "publication_time": "24/11/2026 07:42 Brasília"
+    },
+    {
+      "date": "2026-11-23",
+      "summary": "Inspeções de soja dos EUA:1,555milhão t na semana até19/11;China cerca de metade.",
+      "source": "USDA via NotíciasAgrícolas",
+      "url": "https://www.noticiasagricolas.com.br/noticias/usda/431788-usda-embarques-de-milho-dos-eua-surpreendem-e-soja-acumula-alta-de-59-na-temporada.html",
+      "publication_time": "23/11/2026 14:19 Brasília"
+    }
+  ],
+  "warnings": [],
+  "revisions": [],
+  "config": {
+    "active_cbot": "ZSF27",
+    "cbot_contracts": {
+      "ZSX26": {
+        "last_trade": "2026-11-13",
+        "source": "https://www.cmegroup.com/markets/agriculture/oilseeds/soybean/calendar"
+      },
+      "ZSF27": {
+        "last_trade": "2027-01-14",
+        "source": "https://www.cmegroup.com/markets/agriculture/oilseeds/soybean/calendar"
+      }
+    },
+    "paranagua_shipment": "Novembro/26",
+    "b3_contracts": [
+      "SJCH27",
+      "SOYH27"
+    ]
+  },
+  "bitcoin_binance": [
+    {
+      "date": "2026-10-21",
+      "price_brl": "418346.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-10-21T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1792551600000,
+        "close_time_ms": 1792637999999,
+        "close": "418346.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "price_brl": "414472.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-10-22T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1792638000000,
+        "close_time_ms": 1792724399999,
+        "close": "414472.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "price_brl": "405883.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-10-23T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1792724400000,
+        "close_time_ms": 1792810799999,
+        "close": "405883.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "price_brl": "405357.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-10-24T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1792810800000,
+        "close_time_ms": 1792897199999,
+        "close": "405357.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "price_brl": "429662.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-10-25T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1792897200000,
+        "close_time_ms": 1792983599999,
+        "close": "429662.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "price_brl": "429679.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-10-26T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1792983600000,
+        "close_time_ms": 1793069999999,
+        "close": "429679.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "price_brl": "433683.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-10-27T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1793070000000,
+        "close_time_ms": 1793156399999,
+        "close": "433683.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "price_brl": "428530.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-10-28T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1793156400000,
+        "close_time_ms": 1793242799999,
+        "close": "428530.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "price_brl": "418614.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-10-29T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1793242800000,
+        "close_time_ms": 1793329199999,
+        "close": "418614.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "price_brl": "419790.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-10-30T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1793329200000,
+        "close_time_ms": 1793415599999,
+        "close": "419790.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-10-31",
+      "price_brl": "417891.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-10-31T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1793415600000,
+        "close_time_ms": 1793501999999,
+        "close": "417891.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "price_brl": "428150.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-01T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1793502000000,
+        "close_time_ms": 1793588399999,
+        "close": "428150.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "price_brl": "419566.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-02T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1793588400000,
+        "close_time_ms": 1793674799999,
+        "close": "419566.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "price_brl": "420634.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-03T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1793674800000,
+        "close_time_ms": 1793761199999,
+        "close": "420634.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "price_brl": "441375.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-04T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1793761200000,
+        "close_time_ms": 1793847599999,
+        "close": "441375.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "price_brl": "420975.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-05T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1793847600000,
+        "close_time_ms": 1793933999999,
+        "close": "420975.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "price_brl": "421607.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-06T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1793934000000,
+        "close_time_ms": 1794020399999,
+        "close": "421607.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "price_brl": "426140.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-07T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794020400000,
+        "close_time_ms": 1794106799999,
+        "close": "426140.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "price_brl": "419267.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-08T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794106800000,
+        "close_time_ms": 1794193199999,
+        "close": "419267.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "price_brl": "413810.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-09T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794193200000,
+        "close_time_ms": 1794279599999,
+        "close": "413810.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "price_brl": "411448.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-10T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794279600000,
+        "close_time_ms": 1794365999999,
+        "close": "411448.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "price_brl": "413262.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-11T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794366000000,
+        "close_time_ms": 1794452399999,
+        "close": "413262.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "price_brl": "398176.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-12T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794452400000,
+        "close_time_ms": 1794538799999,
+        "close": "398176.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "price_brl": "386772.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-13T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794538800000,
+        "close_time_ms": 1794625199999,
+        "close": "386772.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "price_brl": "372191.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-14T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794625200000,
+        "close_time_ms": 1794711599999,
+        "close": "372191.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "price_brl": "372241.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-15T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794711600000,
+        "close_time_ms": 1794797999999,
+        "close": "372241.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "price_brl": "374533.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-16T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794798000000,
+        "close_time_ms": 1794884399999,
+        "close": "374533.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "price_brl": "372548.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-17T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794884400000,
+        "close_time_ms": 1794970799999,
+        "close": "372548.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "price_brl": "370347.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-18T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1794970800000,
+        "close_time_ms": 1795057199999,
+        "close": "370347.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "price_brl": "372038.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-19T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1795057200000,
+        "close_time_ms": 1795143599999,
+        "close": "372038.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "price_brl": "355039.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-20T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1795143600000,
+        "close_time_ms": 1795229999999,
+        "close": "355039.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "price_brl": "364517.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-21T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1795230000000,
+        "close_time_ms": 1795316399999,
+        "close": "364517.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-22",
+      "price_brl": "365793.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-22T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1795316400000,
+        "close_time_ms": 1795402799999,
+        "close": "365793.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "price_brl": "357354.00000000",
+      "source_url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCBRL&interval=1d&timeZone=-3&limit=35",
+      "observed_at": "2026-11-23T23:59:59.999000-03:00",
+      "consulted_at": "2026-11-24T15:22:35.182791-03:00",
+      "nature": "daily_close",
+      "method": "BTCBRL spot; fechamento do candle diário 00:00–23:59:59,999 Brasília (timeZone=-3), último negócio; não é ask, Bipa ou cotação simultânea à PTAX",
+      "source": "Binance",
+      "evidence": {
+        "response_sha256": "3d968b449a10e8566645c2e492ec72e51f87be246ff14f7604334c4c8b670237",
+        "open_time_ms": 1795402800000,
+        "close_time_ms": 1795489199999,
+        "close": "357354.00000000",
+        "symbol": "BTCBRL",
+        "interval": "1d"
+      }
+    }
+  ]
+}

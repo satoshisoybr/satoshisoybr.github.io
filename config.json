@@ -1,0 +1,9 @@
+{
+  "active_cbot": "ZSF27",
+  "cbot_contracts": {
+    "ZSX26": {"last_trade": "2026-11-13", "source": "https://www.cmegroup.com/markets/agriculture/oilseeds/soybean/calendar"},
+    "ZSF27": {"last_trade": "2027-01-14", "source": "https://www.cmegroup.com/markets/agriculture/oilseeds/soybean/calendar"}
+  },
+  "paranagua_shipment": "Novembro/26",
+  "b3_contracts": ["SJCH27", "SOYH27"]
+}

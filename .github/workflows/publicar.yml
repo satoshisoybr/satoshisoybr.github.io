@@ -1,0 +1,52 @@
+name: Atualizar soja e publicar site
+on:
+  workflow_dispatch:
+  schedule:
+    # 15:00 UTC = 12:00 America/Sao_Paulo; igual ao agendamento atual.
+    - cron: '0 15 * * 1-5'
+  push:
+    branches: [main]
+    paths-ignore: ['data/**', 'Soja_Composicao_Preco.pdf']
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: soja-publicacao
+  cancel-in-progress: false
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - run: python engine.py --collect
+      - run: python scripts/package_source.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - name: Publicar no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Preservar checkpoint após a publicação
+        if: steps.deployment.outcome == 'success'
+        run: |
+          git config user.name 'soja-aberta-bot'
+          git config user.email 'soja-aberta-bot@users.noreply.github.com'
+          git add data Soja_Composicao_Preco.pdf
+          if ! git diff --cached --quiet; then
+            git commit -m 'Atualiza dados públicos e checkpoint'
+            git push
+          fi
